@@ -1,5 +1,5 @@
 # ============================================================
-#  AUDIO FILES (copyright - NEVER commit)
+#  AUDIO FILES 
 # ============================================================
 dataset/audio/
 dataset_test/audio/
@@ -22,12 +22,12 @@ dataset/back/
 __pycache__/
 
 # ============================================================
-# THIRD-PARTY BINARIES (do not redistribute)
+# THIRD-PARTY BINARIES
 # ============================================================
 chord_engine/
 
 # ============================================================
-# MANIFESTS (optionally: contains YouTube URLs)
+# MANIFESTS 
 # ============================================================
 download_manifest.json
 downloaded.txt
