@@ -1,0 +1,3974 @@
+{
+  "'Round Midnight.wav": [
+    {
+      "time": 0.0,
+      "end": 228.74,
+      "key": "D#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Standard de jazz. Malgré les nombreuses cadences ii-V-I (ex: Bbmin7-Eb7-Abmaj) qui créent des tonicisations locales, la structure harmonique globale reste ancrée en Eb mineur / Eb majeur. Traiter comme une seule tonalité globale."
+    }
+  ],
+  "All I Ask.wav": [
+    {
+      "time": 0.0,
+      "end": 219.127,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'analyse des accords montre une progression claire E-G#m-B-C#m-F#m, ce qui établit E majeur (I-iii-V-vi-ii) comme tonalité principale, et non B majeur[cite: 2]."
+    },
+    {
+      "time": 219.127,
+      "end": 271.813,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation directe en F majeur confirmée par l'apparition soutenue des accords Cmaj, Fmaj, D7 et Gmin7 à partir de 219.1s[cite: 2]."
+    }
+  ],
+  "Backstreet Boys - I Want It That Way (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 149.885,
+      "key": "F#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité initiale confirmée par la boucle F#min-Dmaj-Amaj (vi-IV-I en A ou i-VI-III en F# min)[cite: 2]."
+    },
+    {
+      "time": 149.885,
+      "end": 219.289,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation claire vers B majeur marquée par l'arrivée de Bmaj-Emaj-F#maj-Abmin (I-IV-V-vi)[cite: 2]."
+    }
+  ],
+  "Beyoncé - Love On Top (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 103.979,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première section en C majeur avec de forts chromatismes (F#hdim7)[cite: 2]."
+    },
+    {
+      "time": 103.979,
+      "end": 129.498,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première modulation au demi-ton supérieur (C#maj7-C#7)[cite: 2]."
+    },
+    {
+      "time": 129.498,
+      "end": 144.823,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Deuxième modulation confirmée par Dmaj7-A7-Gmaj7[cite: 2]."
+    },
+    {
+      "time": 144.823,
+      "end": 162.749,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Troisième modulation en Eb majeur (Ebmaj7-Bb7-Abmaj7)[cite: 2]."
+    },
+    {
+      "time": 162.749,
+      "end": 196.348,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Quatrième modulation finale vers E majeur (Emaj7) bien que le modèle automatique se trompe en affichant G#min[cite: 2]."
+    }
+  ],
+  "Bill Evans Trio - My Foolish Heart (Official Visualizer).wav": [
+    {
+      "time": 0.0,
+      "end": 295.126,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste reste fondamentalement ancrée en A majeur (Amaj, Bmin7, C#min7). Les modulations automatiques détectées ne sont que des cadences passagères typiques du jazz[cite: 2]."
+    }
+  ],
+  "Black Narcissus-DB3.wav": [
+    {
+      "time": 0.0,
+      "end": 265.985,
+      "key": "B:maj",
+      "confidence": "low",
+      "data_support": "moyen",
+      "note": "Jazz modal très ambigu voyageant entre Bmaj7, Amaj7 et Bbmaj7. Sans progression pop claire, à traiter globalement en B:maj (tonalité d'ancrage initiale)[cite: 2]."
+    }
+  ],
+  "Bon Jovi - Livin' On A Prayer.wav": [
+    {
+      "time": 0.0,
+      "end": 204.614,
+      "key": "E:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Les accords montrent clairement Emin-Cmaj-Dmaj-Gmaj. Le morceau est en E mineur. Les passages en G majeur sont des refrains au relatif majeur[cite: 2]."
+    },
+    {
+      "time": 204.614,
+      "end": 248.825,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation d'un ton et demi pour le refrain final, validée par les accords Ebmaj-Fmaj-Bbmaj (IV-V-I en Bb majeur)[cite: 2]."
+    }
+  ],
+  "Bonnie Tyler - Total Eclipse of the Heart (Turn Around) (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 63.692,
+      "key": "A#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Les couplets voyagent entre Bb mineur et Ab mineur avec une harmonie sombre et tendue[cite: 2]."
+    },
+    {
+      "time": 63.692,
+      "end": 333.903,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le refrain épique s'établit en Ab majeur (C#maj - Ebmaj - Abmaj = IV-V-I) et alterne ensuite avec le mineur[cite: 2]."
+    }
+  ],
+  "Chicago - You're the Inspiration (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 180.233,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Malgré les accords Bmaj et Emaj, l'analyse harmonique montre un ancrage principal en Ab majeur (Ab-C#-Eb) sur la première grande partie[cite: 2]."
+    },
+    {
+      "time": 180.233,
+      "end": 226.371,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La modulation en F majeur est explicite à 180s avec Fmaj-Bbmaj-Cmaj-Dmin7[cite: 2]."
+    }
+  ],
+  "Close to the Edge (I. The Solid Time of Change, II. Total Mass Retain, III. I Get up I Get....wav": [
+    {
+      "time": 0.0,
+      "end": 1118.784,
+      "key": "N/A",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Rock progressif de 18 minutes extrêmement complexe, instable (F, D, Amin, C, G, E, C#) ne se prêtant pas à une annotation de tonalité simple[cite: 2]."
+    }
+  ],
+  "Céline Dion - My Heart Will Go On (Official 25th Anniversary Alternate Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 204.684,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La suite Emaj-Amaj-Bmaj-C#min confirme E majeur (I-IV-V-vi). Le C#min détecté par le système n'est qu'un accord de passage[cite: 2]."
+    },
+    {
+      "time": 204.684,
+      "end": 280.52,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation puissante en Ab majeur (G#) validée par Abmaj-C#maj-Ebmaj-Fmin[cite: 2]."
+    }
+  ],
+
+
+
+
+
+
+
+
+  "Diana Ross - Chain Reaction (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 226.069,
+      "key": "B:maj",
+      "confidence": "low",
+      "data_support": "moyen",
+      "note": "Structure pop très complexe avec modulations ascendantes multiples (B, F#, D, G, etc.) validées par les accords[cite: 2]. Difficilement exploitable pour une annotation simple[cite: 2]."
+    }
+  ],
+  "Fanja Andriamanantena - Taratasy ho anao.mp3": [
+    {
+      "time": 0.0,
+      "end": 335.784,
+      "key": "G#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Alternance constante entre Ab mineur et B majeur (relatifs) selon les accords[cite: 2]. L'harmonie reste stable autour de la tonalité mineure, traiter comme 1 clé unique[cite: 2]."
+    }
+  ],
+  "Fanja Andriamanantena - Tiako raha ianao.mp3": [
+    {
+      "time": 0.0,
+      "end": 324.267,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique très stable[cite: 2]. Confirmée par les cadences A-E-D (I-V-IV)[cite: 2]."
+    }
+  ],
+  "Genesis - Invisible Touch (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 163.283,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale confirmée par F-Bb-C (I-IV-V)[cite: 2]."
+    },
+    {
+      "time": 163.283,
+      "end": 210.233,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation en G majeur validée par l'apparition de G-C-D[cite: 2]."
+    }
+  ],
+  "Genesis - Invisible Touch (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 172.989,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale en F majeur (F-Bb-C)[cite: 2]."
+    },
+    {
+      "time": 172.989,
+      "end": 245.853,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale en G majeur clairement identifiable dans les accords[cite: 2]."
+    }
+  ],
+  "Greedy.wav": [
+    {
+      "time": 0.0,
+      "end": 157.501,
+      "key": "D#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale confirmée par Ebmin-Abmin-Bmaj (i-iv-VI)[cite: 2]."
+    },
+    {
+      "time": 157.501,
+      "end": 214.924,
+      "key": "F:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation en F mineur (Fmin7-Bbmin7) pour la section finale[cite: 2]."
+    }
+  ],
+  "Groupe Ny Avo - Voady - Clip Malagasy Evangélique Nouveauté 2018.wav": [
+    {
+      "time": 0.0,
+      "end": 214.065,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale en Eb majeur (Eb-Ab-Bb)[cite: 2]."
+    },
+    {
+      "time": 214.065,
+      "end": 290.714,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation ascendante vers F majeur (F-Bb-C)[cite: 2]."
+    }
+  ],
+  "Herman's Hermits - No Milk Today (1966).wav": [
+    {
+      "time": 0.0,
+      "end": 168.275,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Alternance entre A mineur (couplets) et A majeur (refrains)[cite: 2]. Il s'agit d'une tonicisation parallèle typique, à traiter comme 1 clé globale[cite: 2]."
+    }
+  ],
+  "Jaojoby - Alima.wav": [
+    {
+      "time": 0.0,
+      "end": 320.017,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité extrêmement stable en G majeur (G-D-C) sur toute la piste[cite: 2]."
+    }
+  ],
+  "Jaojoby - mangala vaiavy.wav": [
+    {
+      "time": 0.0,
+      "end": 300.002,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Progression cyclique C-F-G (I-IV-V)[cite: 2]. Les segments G:maj auto-détectés sont une erreur, tonalité unique C:maj[cite: 2]."
+    }
+  ],
+  "Jerome Kern - All The Things You Are [1939].wav": [
+    {
+      "time": 0.0,
+      "end": 160.032,
+      "key": "D:min",
+      "confidence": "low",
+      "data_support": "fort",
+      "note": "Standard de jazz hyper-modulant (Dmin, Amaj, Cmaj, Emaj...)[cite: 2]. Non exploitable pour une annotation de clé simple[cite: 2]."
+    }
+  ],
+  "Jerry Marcoss & Mima - Samy mafoaka (Clip officiel).wav": [
+    {
+      "time": 0.0,
+      "end": 39.799,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Section initiale en F# majeur (F#-B-C#)[cite: 2]."
+    },
+    {
+      "time": 39.799,
+      "end": 192.749,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers Eb majeur (Eb-Ab-Bb)[cite: 2]."
+    },
+    {
+      "time": 192.749,
+      "end": 333.113,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale vers G majeur (G-C-D)[cite: 2]."
+    }
+  ],
+  "Jim Croce - Time In A Bottle.wav": [
+    {
+      "time": 0.0,
+      "end": 146.1,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Alternance D mineur (couplet) / D majeur (refrain)[cite: 2]. Pas de vraie modulation structurelle, traiter comme une clé globale[cite: 2]."
+    }
+  ],
+  "John Coltrane - Giant Steps (2020 Remaster) [Official Audio].wav": [
+    {
+      "time": 0.0,
+      "end": 287.835,
+      "key": "B:maj",
+      "confidence": "low",
+      "data_support": "fort",
+      "note": "Coltrane changes — modulations très rapides par tierces majeures (Bmaj7, Ebmaj7, Gmaj7)[cite: 2]. Ne peut pas être réduit à une seule tonalité[cite: 2]."
+    }
+  ],
+
+
+
+
+  "Just Friends (1991 Digital Remaster).wav": [
+    {
+      "time": 0.0,
+      "end": 377.51,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Standard de jazz en Bb majeur (A#)[cite: 2]. Les accords (Bb7, Eb7, Cmin7, F7, Gmin7) confirment la tonalité principale malgré les nombreuses tonicisations typiques du style[cite: 2]."
+    }
+  ],
+  "Lady Gaga - Perfect Illusion (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 109.227,
+      "key": "F#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La boucle d'accords F#min–Dmaj–Emaj–C#min établit clairement F# mineur (i–VI–VII–v)[cite: 2]."
+    },
+    {
+      "time": 109.227,
+      "end": 184.018,
+      "key": "G#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation ascendante (+2 demi-tons) vers G# mineur confirmée par les accords Abmin–Emaj–F#maj (i–VI–VII)[cite: 2]."
+    }
+  ],
+  "Layla.wav": [
+    {
+      "time": 0.0,
+      "end": 195.442,
+      "key": "D#:min",
+      "confidence": "high",
+      "data_support": "moyen",
+      "note": "Les accords détectés (Ebmin, Bbmaj, C#maj) indiquent une version transposée ou pitchée à +1 demi-ton par rapport à l'original (D mineur)[cite: 2]. Traité comme D# mineur[cite: 2]."
+    },
+    {
+      "time": 195.442,
+      "end": 423.857,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La célèbre coda au piano commence ici[cite: 2]. Les accords C#maj, F#maj, Bmaj confirment le changement de section (originalement en C majeur, ici pitché en C# majeur)[cite: 2]."
+    }
+  ],
+  "Michael Bolton - How Can We Be Lovers.wav": [
+    {
+      "time": 0.0,
+      "end": 126.479,
+      "key": "D#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Progression ambiguë oscillant entre C mineur et Eb majeur (Abmaj, Bbmaj, Cmin, Ebmaj)[cite: 2]. Traité globalement en D#:maj selon la structure pop[cite: 2]."
+    },
+    {
+      "time": 126.479,
+      "end": 235.032,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation en F majeur évidente avec l'arrivée stable des accords Fmaj, Gmin, Bbmaj et Cmaj[cite: 2]."
+    }
+  ],
+  "Michael Jackson - Man In The Mirror (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 173.291,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale en G majeur parfaitement confirmée par Gmaj–Cmaj–Amin7–Dsus4[cite: 2]."
+    },
+    {
+      "time": 173.291,
+      "end": 303.601,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La fameuse modulation d'un demi-ton est confirmée par les accords Abmaj–C#maj–Fmin–Ebmaj[cite: 2]."
+    }
+  ],
+  "Mr. Big - To Be With You 4K Video.wav": [
+    {
+      "time": 0.0,
+      "end": 147.749,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Couplets et refrains stables en E majeur (C#min, Emaj, Amaj, Bmaj)[cite: 2]."
+    },
+    {
+      "time": 147.749,
+      "end": 170.783,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le pont et le solo de guitare modulent en G majeur (Gmaj, Cmaj, Dmaj)[cite: 2]."
+    },
+    {
+      "time": 170.783,
+      "end": 210.35,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour à la tonalité initiale de E majeur pour les derniers refrains[cite: 2]."
+    }
+  ],
+  "Mr. Big - Wild World (MV).wav": [
+    {
+      "time": 0.0,
+      "end": 30.813,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'introduction et le début du couplet sont en D mineur (Dmin–Gmaj–Cmaj–Fmaj–Bbmaj)[cite: 2]."
+    },
+    {
+      "time": 30.813,
+      "end": 212.323,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau bascule au relatif majeur (F majeur) qui devient le centre tonal dominant (Fmaj–Bbmaj–Cmaj)[cite: 2]."
+    }
+  ],
+  "Nanie sy Lalie-  Feo roa.wav": [
+    {
+      "time": 0.0,
+      "end": 150.558,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale en Bb majeur (A#) confirmée par Bbmaj, Ebmaj, Abmaj, Cmin7[cite: 2]."
+    },
+    {
+      "time": 150.558,
+      "end": 180.396,
+      "key": "G:maj",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Pont instable modulant vers G majeur (Gmin, Cmaj, Dmaj, Gmaj)[cite: 2]."
+    },
+    {
+      "time": 180.396,
+      "end": 247.85,
+      "key": "F#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernière section modulant vers F# mineur (F#min, Bmin, Emaj, C#min)[cite: 2]."
+    }
+  ],
+  "Oasis - All Around The World (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 180.396,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité d'origine très claire : Bmaj, F#maj, Emaj, Abmin[cite: 2]."
+    },
+    {
+      "time": 180.396,
+      "end": 218.36,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première modulation en E majeur (Emaj, C#min, Amaj, F#min)[cite: 2]."
+    },
+    {
+      "time": 218.36,
+      "end": 241.743,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Deuxième modulation en C majeur (Cmaj, D7, Gmaj)[cite: 2]."
+    },
+    {
+      "time": 241.743,
+      "end": 265.288,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Troisième modulation en A majeur (Amaj, Gmaj, Fmaj)[cite: 2]."
+    },
+    {
+      "time": 265.288,
+      "end": 422.069,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernière modulation pour la longue coda en D majeur (Dmaj, Emaj, Gmaj)[cite: 2]."
+    }
+  ],
+  "Rano sy Vary - Mahaleo (Dadah).wav": [
+    {
+      "time": 0.0,
+      "end": 75.836,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Section initiale en E majeur, confirmée par les accords Emaj, F#min7, B7, Amaj[cite: 2]."
+    },
+    {
+      "time": 75.836,
+      "end": 350.041,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau module effectivement vers la dominante (B majeur), comme le prouvent les accords constants F#maj, Bmaj, Emaj, Ebmin et C#min apparus à partir de 76 secondes[cite: 2]."
+    }
+  ],
+  "Seal  -  Kiss From A Rose (Official Music Video 720p HD) + Lyrics.wav": [
+    {
+      "time": 0.0,
+      "end": 223.631,
+      "key": "G#:maj",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Harmonie extrêmement complexe et chromatique (Gmaj, Emaj, Fmaj, Abmaj, F#maj, Ebmaj)[cite: 2]. Les segments de l'auto-annotation sont inexploitables, à regrouper sous une seule clé globale indicative[cite: 2]."
+    }
+  ],
+  "Shania Twain - If You Wanna Touch Her, Ask! (Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 144.962,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première partie stable en C majeur (Cmaj, Fmaj, Gmaj, Amin, Bbmaj)[cite: 2]."
+    },
+    {
+      "time": 144.962,
+      "end": 167.393,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première modulation en D majeur (Dmaj, Gmaj, Bmin, Amin)[cite: 2]."
+    },
+    {
+      "time": 167.393,
+      "end": 190.102,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Deuxième modulation en E majeur (Emaj, Amaj, C#min, F#min)[cite: 2]."
+    },
+    {
+      "time": 190.102,
+      "end": 243.879,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernière modulation en B majeur (F#maj, Bmaj, Ebmin)[cite: 2]."
+    }
+  ],
+  "Somethin' Stupid (2008 Remastered).wav": [
+    {
+      "time": 0.0,
+      "end": 160.473,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau ne module pas, il reste solidement ancré en E majeur (F#min7, B7, Emaj, C#min, Amaj) de bout en bout[cite: 2]."
+    }
+  ],
+  "The Beatles - Here, There and Everywhere.wav": [
+    {
+      "time": 0.0,
+      "end": 154.459,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale en G majeur (Gmaj, Bmin, Amin, Cmaj)[cite: 2]. Les accords d'emprunt mineur (Bbmaj, Gmin) ne sont que des passages chromatiques typiques des Beatles, pas de modulations structurelles[cite: 2]."
+    }
+  ],
+
+
+
+
+
+  "The Beatles - The Beatles - While My Guitar Gently Weeps (Official Music Video) [Love Version].wav": [
+    {
+      "time": 0.0,
+      "end": 215.876,
+      "key": "G:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Les accords Gmin, Ebmaj, Fmaj, Cmaj confirment une progression en G mineur (i-VI-VII-IV) tout au long du morceau. Les modulations automatiques en Dmaj et Fmaj détectées dans d'autres versions sont ici absentes ou s'agit de tonicisations passagères[cite: 2]."
+    }
+  ],
+  "The Communards - Don't Leave Me This Way (with Sarah Jane Morris) [Official Video].wav": [
+    {
+      "time": 0.0,
+      "end": 32.438,
+      "key": "A#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'introduction est en Bb mineur (A#min), confirmée par les accords Bbmin, F#maj, C#maj, Ebmin[cite: 2]."
+    },
+    {
+      "time": 32.438,
+      "end": 57.864,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau module vers Ab majeur (G#) validé par Abmaj, C#maj, Ebmin[cite: 2]."
+    },
+    {
+      "time": 57.864,
+      "end": 91.463,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers Bb majeur, avec les accords Ebmaj, Bbmaj, Fmaj[cite: 2]."
+    },
+    {
+      "time": 91.463,
+      "end": 103.259,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour en Ab majeur[cite: 2]."
+    },
+    {
+      "time": 103.259,
+      "end": 152.3,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour en Bb majeur[cite: 2]."
+    },
+    {
+      "time": 152.3,
+      "end": 195.86,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers Eb majeur, confirmée par Ebmaj, Abmaj, Bbmaj, Fmin[cite: 2]."
+    },
+    {
+      "time": 195.86,
+      "end": 206.774,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers Ab majeur (C#maj, Abmaj, Ebmin)[cite: 2]."
+    },
+    {
+      "time": 206.774,
+      "end": 276.712,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernière modulation vers C majeur, soutenue par Fmaj, Bbmaj, Cmaj, Gmin[cite: 2]."
+    }
+  ],
+  "The Fool On The Hill (Remastered 2009).wav": [
+    {
+      "time": 0.0,
+      "end": 179.119,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Les accords Dmaj, Emin, Gmaj, Amaj confirment D majeur comme tonalité principale. L'alternance entre Dmaj (couplets) et Dmin (refrains, avec Bbmaj, Cmaj, Fmaj) est un emprunt à la tonalité homonyme mineure et ne constitue pas une modulation structurelle à proprement parler. L'auto-annotation fragmente de manière erronée[cite: 2]."
+    }
+  ],
+  "The Oak Ridge Boys - Elvira (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 149.42,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La progression est basique et très claire en C majeur (C, F, G)[cite: 2]."
+    },
+    {
+      "time": 149.42,
+      "end": 179.421,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation de +1 demi-ton vers C# majeur (C#maj, Abmaj)[cite: 2]."
+    },
+    {
+      "time": 179.421,
+      "end": 275.714,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernière modulation de +1 demi-ton vers D majeur (Dmaj, Gmaj, Amaj, Dmin)[cite: 2]."
+    }
+  ],
+  "The Osmonds The Proud One Live On TV Top Of The Pops 1975.wav": [
+    {
+      "time": 0.0,
+      "end": 138.391,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est principalement en E majeur, validé par Emaj, C#min, F#min, Bmaj[cite: 2]."
+    },
+    {
+      "time": 138.391,
+      "end": 181.812,
+      "key": "E:min",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Le pont bascule au mineur homonyme, E mineur (Emin, Amin, Dmaj, Gmaj)[cite: 2]."
+    }
+  ],
+  "The Police - Every Breath You Take (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 82.779,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le début du morceau est solidement ancré en Ab majeur (G#) : Abmaj, Fmin, C#maj, Ebmaj[cite: 2]."
+    },
+    {
+      "time": 82.779,
+      "end": 103.491,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le pont module clairement vers B majeur : Emaj, F#maj, Abmaj, Fmin[cite: 2]."
+    },
+    {
+      "time": 103.491,
+      "end": 228.902,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour à la tonalité principale Ab majeur (C#maj, Ebmaj, Fmin, Abmaj) jusqu'à la fin[cite: 2]."
+    }
+  ],
+  "The Police - So Lonely (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 121.58,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La majeure partie de la chanson est en C majeur, comme l'atteste la boucle incessante Cmaj, Gmaj, Amin, Fmaj[cite: 2]."
+    },
+    {
+      "time": 121.58,
+      "end": 127.663,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Bref passage modulant validé par A:maj et E:maj[cite: 2]."
+    },
+    {
+      "time": 127.663,
+      "end": 184.552,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation claire en D majeur, soutenue par Dmaj, Amaj, Bmin, Gmaj[cite: 2]."
+    }
+  ],
+  "The Temptations - My Girl (Lyric Video).wav": [
+    {
+      "time": 0.0,
+      "end": 94.761,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première section en C majeur, évidente avec Cmaj, Fmaj, Dmin, Gmaj[cite: 2]."
+    },
+    {
+      "time": 94.761,
+      "end": 103.979,
+      "key": "F:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Bref passage modulant confirmé par Fmaj, Bbmaj, Cmaj[cite: 2]."
+    },
+    {
+      "time": 103.979,
+      "end": 164.537,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le dernier tiers du morceau module en D majeur (Dmaj, Gmaj, Emin, Amaj)[cite: 2]."
+    }
+  ],
+  "The Who - My Generation.wav": [
+    {
+      "time": 0.0,
+      "end": 207.54,
+      "key": "G:maj",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "L'outil n'a extrait que 8 accords sur toute la piste (Gmaj, Amaj, Bbmaj, Cmaj). Les modulations (G, A, Bb, C) sont bien réelles dans la chanson, mais les données générées sont inexploitables en l'état à cause du sous-échantillonnage de l'extraction[cite: 2]."
+    }
+  ],
+  "Victor Young - STELLA BY STARLIGHT.wav": [
+    {
+      "time": 0.0,
+      "end": 94.482,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Standard en Bb majeur (A#). Les accords (Bbmaj, Fmaj, Gmin, Cmin, Ebmaj, Dmin) valident la tonalité malgré de nombreux ii-V de passage (Edim-Ebmaj)[cite: 2]."
+    },
+    {
+      "time": 94.482,
+      "end": 180.907,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau module vers D majeur, confirmé par Dmaj, Gmin, C7, Fmaj7, Ebmaj7, Dmaj7[cite: 2]."
+    }
+  ],
+  "Westlife - You Raise Me Up (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 79.203,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute en Eb majeur (Ebmaj, Abmaj, Bbmaj, Cmin)[cite: 2]."
+    },
+    {
+      "time": 79.203,
+      "end": 149.931,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première modulation en F majeur (Fmaj, Bbmaj, Cmaj, Dmin)[cite: 2]."
+    },
+    {
+      "time": 149.931,
+      "end": 240.257,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Deuxième modulation en F# majeur, affirmée avec F#maj, Bmaj, C#maj, Ebmin[cite: 2]."
+    }
+  ],
+  "Whitney Houston - I Wanna Dance With Somebody (Who Loves Me) (Official 4K Video).wav": [
+    {
+      "time": 0.0,
+      "end": 189.568,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La majeure partie de la chanson s'inscrit en F# majeur (F#maj, Bmaj, Ebmin, Abmin, C#maj)[cite: 2]."
+    },
+    {
+      "time": 189.568,
+      "end": 216.851,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'apparition prolongée de C#maj et Abmaj indique un passage à la dominante[cite: 2]."
+    },
+    {
+      "time": 216.851,
+      "end": 314.352,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale validée en Ab majeur (G#) via les accords Abmaj, C#maj, Ebmaj, Fmin, Bbmin[cite: 2]."
+    }
+  ],
+  "Whitney Houston, Mariah Carey - When You Believe (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 139.738,
+      "key": "B:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson commence en B mineur (Bmin, Amaj, F#min, Gmaj, Emin)[cite: 2]."
+    },
+    {
+      "time": 139.738,
+      "end": 225.326,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le grand pont et refrain central modulent vers E majeur (Emaj, Amaj, Bmaj, C#min, F#min)[cite: 2]."
+    },
+    {
+      "time": 225.326,
+      "end": 298.446,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation épique finale en F# majeur (F#maj, C#maj, Ebmin, Bmaj)[cite: 2]."
+    }
+  ],
+  "ZAKAIOSY _ TGC (Tana Gospel Choir) Official Video.wav": [
+    {
+      "time": 0.0,
+      "end": 136.951,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson débute en Eb majeur (Ebmaj, Bbmaj, Fmin, Abmaj)[cite: 2]."
+    },
+    {
+      "time": 136.951,
+      "end": 203.5,
+      "key": "A#:maj",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Bref passage modulant confirmé par Bbmaj, Fmaj, Cmin[cite: 2]."
+    },
+    {
+      "time": 203.5,
+      "end": 236.217,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et conclusion en Eb majeur (Ebmaj, Abmaj, Bbmaj)[cite: 2]."
+    }
+  ],
+  "a-ha - Take On Me (Official Video) [4K].wav": [
+    {
+      "time": 0.0,
+      "end": 21.595,
+      "key": "B:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'introduction iconique débute en B mineur (Bmin, Emaj, Amaj, Dmaj, i-IV-VII-III)[cite: 2]."
+    },
+    {
+      "time": 21.595,
+      "end": 115.612,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le corps principal du morceau, notamment les refrains, s'établit en A majeur (Amaj, Dmaj, Emaj, C#min, F#min)[cite: 2]."
+    },
+    {
+      "time": 115.612,
+      "end": 142.71,
+      "key": "E:maj",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Pont instrumental avec Emaj, Bmin, C#min, F#min[cite: 2]."
+    },
+    {
+      "time": 142.71,
+      "end": 243.972,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au refrain et fin du morceau en A majeur[cite: 2]."
+    }
+  ],
+  "Alone Together - Arthur Schwartz - Howard Dietz.wav": [
+    {
+      "time": 0.0,
+      "end": 152.184,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau reste en D mineur de bout en bout. Les nombreux accords (Dmin, Emin7, A7, Gmin, D7, C7, Fmaj) sont caractéristiques du standard de jazz. L'auto-annotation s'est complètement trompée en proposant de multiples segments sans rapport (A#maj, D#maj...)[cite: 2]."
+    }
+  ],
+  "Bon Jovi - Bed Of Roses (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 402.054,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'intégralité du morceau est stable en F majeur, l'harmonie est simple et cohérente tout le long (Bbmaj, Fmaj, Cmaj, Dmin, Amin, Gmin). Pas de modulation[cite: 2]."
+    }
+  ],
+  "Boyz II Men - End Of The Road.wav": [
+    {
+      "time": 0.0,
+      "end": 254.584,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est stable en Eb majeur du début à la fin. La suite d'accords typique R&B (Ebmaj, Bbmaj, Cmin, Abmaj, Gmin, Fmin) valide la présence d'une seule tonalité globale[cite: 2]."
+    }
+  ],
+  "Bryan Adams - Heaven (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 240.977,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique, claire et précise de bout en bout en C majeur (Cmaj, Amin, Fmaj, Gmaj, Dmin). Pas de modulation[cite: 2]."
+    }
+  ],
+  "Christina Aguilera - Beautiful (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 239.421,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique en Eb majeur. La structure harmonique (Ebmaj, C#maj, Cmin, Bmaj, Abmaj, Fmin) est riche en emprunts (notamment le C#maj et Bmaj) mais tourne toujours autour du centre tonal Eb. L'auto-annotation se trompe en scindant le morceau en C mineur sur la fin, ce n'est qu'un accord de passage[cite: 2]."
+    }
+  ],
+  "Claude Francois - Comme d'habitude (Official Lyric Video).wav": [
+    {
+      "time": 0.0,
+      "end": 255.234,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le classique est ancré en F majeur de la première à la dernière seconde. L'analyse des accords le confirme (Fmaj, Amin, D7, Gmin, C7, Bbmaj, Dmin)[cite: 2]."
+    }
+  ],
+
+
+
+
+  "Daniel Balavoine - Le chanteur.wav": [
+    {
+      "time": 0.0,
+      "end": 26.192,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'introduction et le premier couplet sont en A majeur, marqués par Fmaj (emprunt), Emaj, Amaj et Dmaj[cite: 2]."
+    },
+    {
+      "time": 26.192,
+      "end": 54.265,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La tonalité se maintient en A majeur avec des emprunts réguliers à Fmaj et Cmaj typiques de la progression[cite: 2]."
+    },
+    {
+      "time": 54.265,
+      "end": 79.087,
+      "key": "D:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Modulation vers D majeur pour le refrain, validée par Dmaj, F#min, Amaj et Cmaj[cite: 2]."
+    },
+    {
+      "time": 79.087,
+      "end": 98.035,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Pont modulant clairement en C# majeur, appuyé par C#maj, F#min, et Cmaj[cite: 2]."
+    },
+    {
+      "time": 98.035,
+      "end": 122.416,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au couplet en A majeur (Amaj, Emaj, Dmaj)[cite: 2]."
+    },
+    {
+      "time": 122.416,
+      "end": 140.527,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Deuxième refrain en D majeur (Dmaj, F#min, Bmin, Amaj)[cite: 2]."
+    },
+    {
+      "time": 140.527,
+      "end": 151.882,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Deuxième pont en C# majeur (C#maj, F#min, Emaj)[cite: 2]."
+    },
+    {
+      "time": 151.882,
+      "end": 174.196,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernier couplet en A majeur (Amaj, Emaj, Dmaj)[cite: 2]."
+    },
+    {
+      "time": 174.196,
+      "end": 194.305,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernier refrain en D majeur (Dmaj, F#min, Bmin, Emaj)[cite: 2]."
+    },
+    {
+      "time": 194.305,
+      "end": 233.546,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale et coda en F# majeur, affirmée par F#maj, Bmaj, Ebmin et C#maj[cite: 2]."
+    }
+  ],
+  "Edith Piaf - La vie en rose (Audio officiel).wav": [
+    {
+      "time": 0.0,
+      "end": 187.292,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau reste en Ab majeur (G#) du début à la fin, malgré les accords de passage chromatiques (Ebdim, F#hdim7, Daug) typiques du style chanson française/jazz[cite: 2]. Les cadences reviennent constamment à Abmaj[cite: 2]."
+    }
+  ],
+  "Elton John - Your Song (Top Of The Pops 1971).wav": [
+    {
+      "time": 0.0,
+      "end": 228.345,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson est solidement ancrée en Eb majeur. La structure (Ebmaj, Abmaj, Bbmaj, Gmin7, Cmin, Fmin) valide une seule et unique tonalité globale sans modulation. L'auto-annotation se trompe en scindant la piste en C mineur au milieu[cite: 2]."
+    }
+  ],
+  "Europe - The Final Countdown (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 296.147,
+      "key": "F#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est un classique en F# mineur. La progression constante (F#min, Dmaj, Bmin, Emaj, C#maj) confirme l'absence de modulation du début à la fin[cite: 2]."
+    }
+  ],
+  "George Michael - Careless Whisper (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 300.698,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique en D mineur. La boucle harmonique célèbre (Dmin, Gmin7, Bbmaj7, Amin7) se répète tout au long de la chanson, affirmant D mineur comme seul centre tonal[cite: 2]."
+    }
+  ],
+  "Green Day - Wake Me Up When September Ends (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 285.791,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson entière est en G majeur. L'utilisation de l'accord C mineur (Cmin) est un emprunt classique (IV mineur) à la tonalité homonyme, et non une modulation. La progression (Gmaj, Emin, Cmaj, Dmaj, Bmin) confirme la stabilité de G majeur[cite: 2]."
+    }
+  ],
+  "Guns N' Roses - Sweet Child O' Mine (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 142.849,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'introduction, les couplets et les premiers refrains sont en C# majeur (C#maj, Bmaj, F#maj)[cite: 2]."
+    },
+    {
+      "time": 142.849,
+      "end": 302.951,
+      "key": "D#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le célèbre solo et la section finale modulent vers Eb mineur (Ebmin, C#maj, Bmaj, F#maj)[cite: 2]."
+    }
+  ],
+  "IMAGINE. (Ultimate Mix, 2020) - John Lennon & The Plastic Ono Band (with the Flux Fiddlers) HD.wav": [
+    {
+      "time": 0.0,
+      "end": 233.918,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson reste en C majeur de bout en bout. La progression de base (Cmaj, Fmaj, Gmaj) et le pont (Amin, Dmin, Gmaj) confirment l'absence de modulation[cite: 2]."
+    }
+  ],
+  "Katy Perry - Roar.wav": [
+    {
+      "time": 0.0,
+      "end": 269.142,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est stable en Bb majeur. Les accords (Bbmaj, Cmin, Gmin, Ebmaj) valident cette unique tonalité (I-ii-vi-IV) pour toute la durée de la piste[cite: 2]."
+    }
+  ],
+  "Kelly Clarkson - Stronger (What Doesn't Kill You) [Official Video].wav": [
+    {
+      "time": 0.0,
+      "end": 220.961,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité principale en A mineur, évoluant parfois vers son relatif majeur C majeur, avec les accords constants Amin, Fmaj, Cmaj, Gmaj (i-VI-III-VII). Traité comme une seule tonalité globale[cite: 2]."
+    }
+  ],
+  "Leona Lewis - Bleeding Love (US Version - Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 278.918,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson entière repose sur la progression cyclique Fmaj, Dmin, Bbmaj, Cmaj (I-vi-IV-V), confirmant F majeur comme unique tonalité[cite: 2]."
+    }
+  ],
+  "Lionel Richie - Hello (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 326.101,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste est en A mineur de bout en bout (Amin, Fmaj, Gmaj, Dmin, Bbmaj, Cmaj). Les variations harmoniques ne provoquent aucune modulation vers une nouvelle tonalité établie[cite: 2]."
+    }
+  ],
+  "Mariah Carey - All I Want for Christmas Is You (Make My Wish Come True Edition).wav": [
+    {
+      "time": 0.0,
+      "end": 242.881,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est fermement ancré en G majeur (Gmaj, Cmaj, Ebdim, Emin, B7, D7). L'emprunt mineur (Cmin) donne une couleur typique sans être une modulation[cite: 2]."
+    }
+  ],
+  "Michael Bublé - Haven't Met You Yet [Official Music Video].wav": [
+    {
+      "time": 0.0,
+      "end": 128.546,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première partie en C# majeur, confirmée par les accords C#maj, F#maj, Ebmin, Abmaj, Bbmin[cite: 2]."
+    },
+    {
+      "time": 128.546,
+      "end": 142.849,
+      "key": "F#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Pont qui s'éloigne brièvement vers F# majeur (Bmaj, F#maj, Abmin)[cite: 2]."
+    },
+    {
+      "time": 142.849,
+      "end": 252.819,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et conclusion affirmée en C# majeur[cite: 2]."
+    }
+  ],
+  "Michael Bublé - Home [Official Music Video].wav": [
+    {
+      "time": 0.0,
+      "end": 226.0,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson ne module pas. Les accords (Gmaj, Dmaj, Emin, Cmaj, A7, Amin) valident G majeur comme centre tonal unique[cite: 2]."
+    }
+  ],
+  "Michael Jackson - Beat It (Official 4K Video).wav": [
+    {
+      "time": 0.0,
+      "end": 298.609,
+      "key": "D#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le riff et les sections principales sont basés en Eb mineur (Ebmin, C#maj, Bmaj)[cite: 2]. Les accords initiaux Emaj, Gmaj, Dmaj (du coup de gong/synthé introductif) ne définissent pas la tonalité[cite: 2]."
+    }
+  ],
+  "Michael Jackson - Billie Jean (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 295.845,
+      "key": "F#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique, emblématique et constante en F# mineur (F#min, Bmin, Dmaj, C#7, Emaj)[cite: 2]."
+    }
+  ],
+  "Michel Sardou - Les lacs du Connemara (Official lyric video).wav": [
+    {
+      "time": 0.0,
+      "end": 56.633,
+      "key": "D#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Introduction dominée par Eb majeur (Bbmaj, Ebmaj)[cite: 2]."
+    },
+    {
+      "time": 56.633,
+      "end": 79.134,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première partie rythmique s'établit en C mineur (Cmin, Bbmaj, Fmin)[cite: 2]."
+    },
+    {
+      "time": 79.134,
+      "end": 105.117,
+      "key": "C#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Transition épique passant par Abmaj, C#maj, Ebmaj, Fmin[cite: 2]."
+    },
+    {
+      "time": 105.117,
+      "end": 282.889,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation massive vers F# majeur / Eb mineur, soutenue longuement (F#maj, Ebmin, C#maj, Abmin, Bmaj)[cite: 2]."
+    },
+    {
+      "time": 282.889,
+      "end": 362.556,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dernière modulation ascendante éclatante vers G majeur (Gmaj, Emin, Cmaj, Dmaj, Amin)[cite: 2]."
+    }
+  ],
+  "Mika & Davis - Ravoravo.wav": [
+    {
+      "time": 0.0,
+      "end": 262.223,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est complètement stable en C majeur, enchaînant les accords Cmaj, Fmaj, Gmaj (I-IV-V) typiques d'une progression joyeuse (salegy/tsapiky)[cite: 2]."
+    }
+  ],
+  "Numb (Official Music Video) [4K UPGRADE] – Linkin Park.wav": [
+    {
+      "time": 0.0,
+      "end": 187.176,
+      "key": "F#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité très claire en F# mineur tout au long de la piste (F#min, Dmaj, Amaj, Emaj = i-VI-III-VII)[cite: 2]."
+    }
+  ],
+  "U2 - 'With Or Without You' (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 292.223,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La fameuse boucle de quatre accords Dmaj, Amaj, Bmin, Gmaj (I-V-vi-IV) tourne en continu, affirmant D majeur comme seule tonalité[cite: 2]."
+    }
+  ],
+  "Yesterday (Remastered 2009).wav": [
+    {
+      "time": 0.0,
+      "end": 125.55,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson entière reste en F majeur. La progression Fmaj, Emin, A7, Dmin, Bbmaj, Cmaj valide ce centre tonal sans équivoque[cite: 2]."
+    }
+  ],
+  "[4K] R. Kelly - I Believe I Can Fly (Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 225.025,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Couplets et refrains principaux en C majeur (Cmaj, G7, Fmin/5, Amin7, Dmin7)[cite: 2]."
+    },
+    {
+      "time": 225.025,
+      "end": 325.869,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale du chœur d'un demi-ton vers C# majeur (C#maj, Bbmin7, F#min, Abmaj)[cite: 2]."
+    }
+  ],
+  "01 Hira kely.wav": [
+    {
+      "time": 0.0,
+      "end": 187.733,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique en F majeur, confirmée par les accords Fmaj, Cmaj, Bbmaj, Gmin7, Amin7. L'auto-annotation s'est embrouillée au début, mais la structure globale (I-V-IV) est évidente[cite: 2]."
+    }
+  ],
+
+
+
+
+
+
+  "FAHAFAHANA.wav": [
+    {
+      "time": 0.0,
+      "end": 136.928,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson est stable en Bb majeur (A#). La progression harmonique s'articule logiquement autour de Bbmaj, Ebmaj, Fmaj et des accords mineurs relatifs (Dmin, Gmin, Cmin)[cite: 2]."
+    }
+  ],
+  "FITIAVANA.wav": [
+    {
+      "time": 0.0,
+      "end": 210.535,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'intégralité du morceau s'inscrit en Eb majeur (D#). On observe une forte présence des accords I (Ebmaj), IV (Abmaj) et V (Bbmaj), avec quelques accords de passage (Cmin, Fmin) typiques de la tonalité sans créer de modulation[cite: 2]."
+    }
+  ],
+  "FOKO_MANONTOLO.wav": [
+    {
+      "time": 0.0,
+      "end": 181.789,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est solidement ancré en D majeur. La boucle principale Dmaj, Gmaj, Amaj, Bmin (I-IV-V-vi) est caractéristique et tourne tout au long de la piste[cite: 2]."
+    }
+  ],
+  "Ho Anao.wav": [
+    {
+      "time": 0.0,
+      "end": 283.887,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau reste en F majeur du début à la fin. L'harmonie (Fmaj, Bbmaj, Cmaj, Dmin, Gmin, Amin) définit clairement ce centre tonal unique[cite: 2]."
+    }
+  ],
+  "Hobio 3 sy 4 - Indro ny aron'ny mandanao.wav": [
+    {
+      "time": 0.0,
+      "end": 14.884,
+      "key": "G#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Courte introduction en Ab mineur (G#min) marquée par Abmin et C#min[cite: 2]."
+    },
+    {
+      "time": 14.884,
+      "end": 122.857,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation claire vers le ton homonyme Ab majeur (G#maj), avec l'omniprésence des accords Abmaj, Dbmaj (C#maj) et Ebmaj[cite: 2]."
+    }
+  ],
+  "Hobio 3 sy 4 - Zanahary ô! Tahio ny tanindrazanay.wav": [
+    {
+      "time": 0.0,
+      "end": 151.905,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste est de bout en bout en Bb majeur (A#). L'harmonie très classique (Bbmaj, Ebmaj, Fmaj, Cmin) confirme l'absence de toute modulation[cite: 2]."
+    }
+  ],
+  "Iza Aiza.wav": [
+    {
+      "time": 0.0,
+      "end": 239.375,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau s'établit en D majeur avec une forte insistance sur l'accord relatif mineur Bmin, alternant constamment Bmin, Gmaj, Amaj, Dmaj[cite: 2]."
+    }
+  ],
+  "JESOSY_I.wav": [
+    {
+      "time": 0.0,
+      "end": 142.036,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Morceau jazz/gospel riche harmoniquement, mais dont le centre tonal reste Ab majeur (G#). Les ii-V-I de passage et accords diminués résolvent toujours vers Abmaj ou ses degrés diatoniques[cite: 2]."
+    }
+  ],
+  "JESO_KRI.wav": [
+    {
+      "time": 0.0,
+      "end": 299.63,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La tonalité de E majeur est maintenue tout au long de la chanson (Emaj, Amaj, Bmaj, F#min, C#min). Aucune modulation structurelle[cite: 2]."
+    }
+  ],
+  "MAMA.wav": [
+    {
+      "time": 0.0,
+      "end": 257.974,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est stable en G majeur (Gmaj, Cmaj, Dmaj/D7, Emin, Amin). Les dominantes secondaires (E7, A7) ajoutent de la couleur mais ne modulent pas de manière permanente[cite: 2]."
+    }
+  ],
+  "MATY.wav": [
+    {
+      "time": 0.0,
+      "end": 205.938,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique en Eb majeur (D#). La progression (Ebmaj, Abmaj, Bbmaj, Cmin, Fmin) valide la stabilité de ce centre tonal du début à la fin[cite: 2]."
+    }
+  ],
+  "MBA_FAIN.wav": [
+    {
+      "time": 0.0,
+      "end": 197.021,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'ensemble de la chanson repose sur la tonalité de A majeur, comme le confirment les accords de I (Amaj), IV (Dmaj) et V (Emaj)[cite: 2]."
+    }
+  ],
+  "MIANTR__.wav": [
+    {
+      "time": 0.0,
+      "end": 232.432,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau s'inscrit clairement en C majeur (Cmaj, Fmaj, Gmaj, Amin, Dmin) sans aucune modulation détectée[cite: 2]."
+    }
+  ],
+  "MIHOBY_N.wav": [
+    {
+      "time": 0.0,
+      "end": 15.464,
+      "key": "C:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Introduction en C mineur, soutenue par Cmin, Dmin, Gmaj (V)[cite: 2]."
+    },
+    {
+      "time": 15.464,
+      "end": 162.006,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau bascule ensuite dans le ton homonyme de C majeur (Cmaj, Fmaj, Gmaj, Amin) jusqu'à la fin[cite: 2]."
+    }
+  ],
+  "MIVADY.wav": [
+    {
+      "time": 0.0,
+      "end": 263.43,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Malgré un début sur Gmaj, le morceau est polarisé sur C majeur (Cmaj, Fmaj, Gmaj, Dmin, Amin). La fausse auto-annotation le perçoit comme G majeur, mais le centre est indéniablement C[cite: 2]."
+    }
+  ],
+  "NA_DIA_EFA.wav": [
+    {
+      "time": 0.0,
+      "end": 136.719,
+      "key": "A:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Section initiale très mouvante avec beaucoup d'accords d'emprunt (Eb, F, Bb). L'auto-annotation indique Amin mais il s'agit plutôt de modulations passagères autour de Bb majeur et F majeur[cite: 2]."
+    },
+    {
+      "time": 136.719,
+      "end": 256.534,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau se stabilise en mineur (Cmin, Fmin, G7) confirmant une fin très marquée dans cette tonalité[cite: 2]."
+    }
+  ],
+  "SOLO___TRACK_10.wav": [
+    {
+      "time": 0.0,
+      "end": 307.688,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Standard de jazz extrêmement riche harmoniquement, mais dont la trame principale gravite autour de C majeur, avec de multiples ii-V-I secondaires (Amin7-D7-Gmaj, Dmin7-G7-Cmaj)[cite: 2]."
+    }
+  ],
+  "SOLO___TRACK_11.wav": [
+    {
+      "time": 0.0,
+      "end": 344.259,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est en C majeur (ou A mineur relatif). La trame harmonique Cmaj, Amin, Dmin, G7, Fmaj tourne avec constance du début à la fin[cite: 2]."
+    }
+  ],
+  "SOLO___TRACK__5.wav": [
+    {
+      "time": 0.0,
+      "end": 292.223,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La tonalité est unique et fermement établie en D majeur (Dmaj, Gmaj, Amaj, Bmin, Emin)[cite: 2]."
+    }
+  ],
+  "SOLO___TRACK__7.wav": [
+    {
+      "time": 0.0,
+      "end": 81.014,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute en F majeur (Fmaj, Bbmaj, C7, Gmin, Amin)[cite: 2]."
+    },
+    {
+      "time": 81.014,
+      "end": 233.5,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation classique d'un demi-ton ascendant vers F# majeur (F#maj, Bmaj, C#maj, Ebmin) maintenue jusqu'à la conclusion[cite: 2]."
+    }
+  ],
+  "SOLO___TRACK__8.wav": [
+    {
+      "time": 0.0,
+      "end": 225.025,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première grande partie du morceau est en C majeur (Cmaj, Fmaj, G7, Amin, Dmin)[cite: 2]."
+    },
+    {
+      "time": 225.025,
+      "end": 325.869,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation d'un demi-ton vers C# majeur (C#maj, F#maj, Abmaj, Bbmin, Ebmin) pour la deuxième partie[cite: 2]."
+    }
+  ],
+  "SOLO___TRACK__9.wav": [
+    {
+      "time": 0.0,
+      "end": 64.505,
+      "key": "D#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Le morceau subit de constantes modulations typiques du jazz/fusion. L'intro oscille autour de Eb majeur et Ab majeur[cite: 2]."
+    },
+    {
+      "time": 64.505,
+      "end": 103.004,
+      "key": "A#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage modulant validé par Bbmaj, Ebmaj, Fmaj[cite: 2]."
+    },
+    {
+      "time": 103.004,
+      "end": 212.95,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au centre tonal principal perçu de Eb majeur[cite: 2]."
+    },
+    {
+      "time": 212.95,
+      "end": 273.485,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La fin du morceau module vers la dominante Bb majeur (Bmaj et F#maj sont des enrichissements non structurels selon l'auto-annotation mais bien réels dans la progression)[cite: 2]."
+    }
+  ],
+  "tena mpifankatia_dadah.wav": [
+    {
+      "time": 0.0,
+      "end": 64.505,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première section en Eb majeur (Ebmaj, Abmaj, Bbmaj, Fmin, Cmin)[cite: 2]."
+    },
+    {
+      "time": 64.505,
+      "end": 141.642,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Pont complexe modulant vers des tons éloignés (F#maj, Bmaj, Amaj, Dmaj). L'auto-annotation fragmente de façon excessive, mais on retient un passage prolongé autour de A majeur et D majeur[cite: 2]."
+    },
+    {
+      "time": 141.642,
+      "end": 263.43,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste se stabilise finalement en D majeur (Dmaj, Gmaj, Amaj, Emin, Bmin)[cite: 2]."
+    }
+  ],
+
+
+
+  "01 - Aina miray.wav": [
+    {
+      "time": 0.0,
+      "end": 315.327,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste est fermement ancrée en mi majeur (E majeur). L'harmonie s'articule clairement autour des accords de base I (Emaj), IV (Amaj) et V (Bmaj), avec de brefs passages par le ii (F#min)."
+    }
+  ],
+  "01 - Miandry anao.wav": [
+    {
+      "time": 0.0,
+      "end": 366.318,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est stable en E majeur du début à la fin. On observe une progression riche incluant Emaj, Amaj, Bmaj et les relatifs mineurs (C#min, F#min), confirmant un centre tonal unique."
+    }
+  ],
+  "01 Ento aho.wav": [
+    {
+      "time": 0.0,
+      "end": 288.926,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité unique en F majeur. L'omniprésence des accords Fmaj, Bbmaj et Cmaj (I-IV-V) valide la stabilité de ce centre tonal, enrichi par quelques accords de septième (C7, G7, Dmin7)."
+    }
+  ],
+  "02 - Ankino.wav": [
+    {
+      "time": 0.023,
+      "end": 256.348,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première grande section est solidement établie en G majeur, naviguant entre Gmaj, Cmaj, Dmaj et Emin."
+    },
+    {
+      "time": 256.348,
+      "end": 292.571,
+      "key": "E:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers le relatif mineur (E mineur), caractérisée par une focalisation sur Emin, Amin et des dominantes d'emprunt (A7)."
+    },
+    {
+      "time": 292.571,
+      "end": 302.208,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Brève conclusion modulant vers A majeur."
+    }
+  ],
+  "02 - satria.wav": [
+    {
+      "time": 0.023,
+      "end": 207.47,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'intégralité du morceau s'inscrit en F majeur, avec des cycles réguliers de Fmaj, Bbmaj, Cmaj et Dmin. Aucune modulation majeure n'est détectée."
+    }
+  ],
+  "02 Efa fantatrao angamba.wav": [
+    {
+      "time": 0.046,
+      "end": 207.47,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité stable en F majeur, similaire structurellement au morceau précédent avec l'usage régulier des degrés I, IV, V et vi."
+    }
+  ],
+  "02 Tsy izany.wav": [
+    {
+      "time": 0.0,
+      "end": 226.905,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau reste en C majeur (Cmaj, Fmaj, Gmaj, Dmin) définissant un centre tonal clair et sans équivoque tout au long de la piste."
+    }
+  ],
+  "03 - Ampy izay-Bodo.wav": [
+    {
+      "time": 0.023,
+      "end": 344.143,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Morceau continu en F majeur. L'harmonie repose sur Fmaj, Bbmaj, Cmaj et Gmin7, typique de progressions pop classiques sans modulations."
+    }
+  ],
+  "03 - gasy mody.wav": [
+    {
+      "time": 0.023,
+      "end": 238.283,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Bien que l'introduction présente quelques accords d'emprunt (Amaj, Abmin7), le centre de gravité harmonique principal s'établit et reste fermement en E majeur (Emaj, Amaj, Bmaj, F#min)."
+    }
+  ],
+  "04 - Ny fahitana anao.wav": [
+    {
+      "time": 0.093,
+      "end": 28.235,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Introduction en Bb majeur (A# maj) bien marquée."
+    },
+    {
+      "time": 28.235,
+      "end": 71.401,
+      "key": "D#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage modulant vers la sous-dominante mineure (Eb mineur / D# mineur)."
+    },
+    {
+      "time": 71.401,
+      "end": 264.011,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et maintien prolongé de la tonalité principale en Bb majeur."
+    },
+    {
+      "time": 264.011,
+      "end": 275.923,
+      "key": "D#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Conclusion sur la couleur mineure (Eb mineur)."
+    }
+  ],
+  "04 - Tsy hangina.wav": [
+    {
+      "time": 0.023,
+      "end": 281.24,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Ancrage clair en F majeur. L'abondance de Dmin (relatif mineur) donne une couleur mélancolique, mais l'axe Fmaj-Cmaj-Bbmaj ramène toujours vers F."
+    }
+  ],
+  "04 Mba rahoviana.wav": [
+    {
+      "time": 0.0,
+      "end": 292.014,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste est complètement diatonique en C majeur (C, F, G, Amin). Très grande stabilité tonale."
+    }
+  ],
+  "05 - Fenonao.wav": [
+    {
+      "time": 0.023,
+      "end": 242.95,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Harmonie mineure continue. Le morceau est centré sur C mineur, soutenu par Ebmaj (relatif majeur), Abmaj et des cadences en G7."
+    }
+  ],
+  "05 - Ry foko.wav": [
+    {
+      "time": 0.023,
+      "end": 176.17,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première section en A majeur, avec des accords typiques (Amaj, Dmaj, Emaj, F#min)."
+    },
+    {
+      "time": 176.17,
+      "end": 208.678,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation temporaire à la dominante (E majeur)."
+    },
+    {
+      "time": 208.678,
+      "end": 286.441,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au centre tonal d'origine (A majeur) pour clore le morceau."
+    }
+  ],
+  "06 - Zanako.wav": [
+    {
+      "time": 0.0,
+      "end": 83.406,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Début de la chanson orienté autour de la tonalité de A mineur (Amin, Fmaj, Cmaj, Dmin)."
+    },
+    {
+      "time": 83.406,
+      "end": 117.934,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers G majeur."
+    },
+    {
+      "time": 117.934,
+      "end": 186.572,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour en A mineur, confirmant sa prédominance sur la première moitié du morceau."
+    },
+    {
+      "time": 186.572,
+      "end": 259.506,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Nouvelle transition vers G majeur bien établie."
+    },
+    {
+      "time": 259.506,
+      "end": 273.67,
+      "key": "A#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Conclusion inattendue ou changement de couleur harmonique vers Bb majeur (A# maj)."
+    }
+  ],
+  "07 - Fotsiny.wav": [
+    {
+      "time": 0.093,
+      "end": 296.612,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est stable en F majeur. L'harmonie (Fmaj, Bbmaj, Cmaj, Dmin) définit clairement ce centre tonal unique de bout en bout."
+    }
+  ],
+  "07 - Modia.wav": [
+    {
+      "time": 0.0,
+      "end": 126.084,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première moitié solidement ancrée en C majeur (C, F, G)."
+    },
+    {
+      "time": 126.084,
+      "end": 223.887,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau évolue vers le ton de la dominante, G majeur, et s'y stabilise jusqu'à la fin."
+    }
+  ],
+  "08 - Hiran'i neny.wav": [
+    {
+      "time": 0.023,
+      "end": 360.815,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité inébranlable en E majeur. La boucle harmonique Emaj, Amaj, Bmaj, F#min valide une progression cyclique sans modulation."
+    }
+  ],
+  "08 - Rafahendrena.wav": [
+    {
+      "time": 0.0,
+      "end": 165.465,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'axe principal se situe en A majeur, marqué par l'alternance cyclique Amaj, Dmaj, Emaj."
+    },
+    {
+      "time": 165.465,
+      "end": 225.884,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Bascule sur le ton de la dominante E majeur (Emaj, Amaj, Bmin, Dmaj) pour la dernière section de l'oeuvre."
+    }
+  ],
+
+
+
+
+  "08 Sombinaiko.wav": [
+    {
+      "time": 0.0,
+      "end": 258.879,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est stable en F majeur du début à la fin. L'enchaînement Fmaj, Bbmaj, Cmaj, Dmin (I-IV-V-vi) est omniprésent tout au long de la piste[cite: 2]."
+    }
+  ],
+  "09 - Ndao handidy.wav": [
+    {
+      "time": 0.0,
+      "end": 202.641,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute et s'installe longuement en C# majeur, avec des accords tels que C#maj, Bbmin, Ebmin, Abmaj[cite: 2]."
+    },
+    {
+      "time": 202.641,
+      "end": 239.653,
+      "key": "G:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Modulation harmonique vers G mineur dans le dernier tiers du morceau[cite: 2]."
+    },
+    {
+      "time": 239.653,
+      "end": 256.952,
+      "key": "C:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La piste se termine par une nouvelle modulation vers C mineur[cite: 2]."
+    }
+  ],
+  "09 Ndao handihy.wav": [
+    {
+      "time": 0.0,
+      "end": 202.641,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste démarre en C# majeur, soutenue par les accords C#maj, F#maj, Abmaj et Bbmin[cite: 2]."
+    },
+    {
+      "time": 202.641,
+      "end": 244.971,
+      "key": "G:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Changement de couleur avec une modulation vers G mineur[cite: 2]."
+    },
+    {
+      "time": 244.971,
+      "end": 256.952,
+      "key": "C:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Le morceau se conclut en C mineur, similairement à la version précédente[cite: 2]."
+    }
+  ],
+  "09 - avelao hifaly.wav": [
+    {
+      "time": 0.0,
+      "end": 260.69,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité claire et stable en C majeur (ou son relatif A mineur). La boucle d'accords Cmaj, Amin, Fmaj, Gmaj, Dmin tourne en permanence sans aucune modulation majeure[cite: 2]."
+    }
+  ],
+  "09 Avelao hifaly.wav": [
+    {
+      "time": 0.0,
+      "end": 260.69,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité claire et stable en C majeur, identique à la version précédente[cite: 2]."
+    }
+  ],
+  "10 - Foiko ho anao.wav": [
+    {
+      "time": 0.0,
+      "end": 237.842,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'harmonie globale repose indéniablement sur Bb majeur (A#) et Eb majeur (Bbmaj, Ebmaj, F7, Cmin, Gmin). Les indications de D majeur ou E majeur dans l'auto-annotation semblent erronées au vu de la suite d'accords bémolisés[cite: 2]."
+    }
+  ],
+  "10 Foiko ho anao.wav": [
+    {
+      "time": 0.0,
+      "end": 84.265,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau s'ouvre clairement en Bb majeur (A# maj)[cite: 2]."
+    },
+    {
+      "time": 84.265,
+      "end": 120.024,
+      "key": "F:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage modulant vers F mineur (ou accords d'emprunt associés)[cite: 2]."
+    },
+    {
+      "time": 120.024,
+      "end": 187.408,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour à la tonalité principale de Bb majeur[cite: 2]."
+    },
+    {
+      "time": 187.408,
+      "end": 223.33,
+      "key": "F:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Nouvelle incursion vers F mineur avant la fin[cite: 2]."
+    }
+  ],
+  "10 - Heart breaker.wav": [
+    {
+      "time": 0.0,
+      "end": 48.669,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute en D mineur, s'appuyant sur Dmin, Fmaj, Cmaj[cite: 2]."
+    },
+    {
+      "time": 48.669,
+      "end": 93.205,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation abrupte vers A majeur (Amaj, Dmaj, Gmaj)[cite: 2]."
+    },
+    {
+      "time": 93.205,
+      "end": 120.604,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au centre tonal initial de D mineur[cite: 2]."
+    },
+    {
+      "time": 120.604,
+      "end": 151.441,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Seconde modulation vers A majeur[cite: 2]."
+    },
+    {
+      "time": 151.441,
+      "end": 313.702,
+      "key": "E:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste se termine par un long passage modulant en E mineur[cite: 2]."
+    }
+  ],
+  "10 Heartbreaker.wav": [
+    {
+      "time": 0.0,
+      "end": 48.669,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Identique à la piste précédente, début en D mineur[cite: 2]."
+    },
+    {
+      "time": 48.669,
+      "end": 93.205,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers A majeur[cite: 2]."
+    },
+    {
+      "time": 93.205,
+      "end": 120.604,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour en D mineur[cite: 2]."
+    },
+    {
+      "time": 120.604,
+      "end": 151.441,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour en A majeur[cite: 2]."
+    },
+    {
+      "time": 151.441,
+      "end": 313.702,
+      "key": "E:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Conclusion en E mineur[cite: 2]."
+    }
+  ],
+  "10 - Tsaroany.wav": [
+    {
+      "time": 0.0,
+      "end": 72.539,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première partie du morceau est solidement en F majeur (Fmaj, Bbmaj, Cmaj, Gmin7)[cite: 2]."
+    },
+    {
+      "time": 72.539,
+      "end": 85.008,
+      "key": "F#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage central modulant d'un demi-ton vers F# mineur[cite: 2]."
+    },
+    {
+      "time": 85.008,
+      "end": 91.208,
+      "key": "B:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Brève incursion vers B mineur (la sous-dominante de F# mineur)[cite: 2]."
+    },
+    {
+      "time": 91.208,
+      "end": 258.043,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour définitif à la tonalité de base, F majeur, jusqu'à la fin de la chanson[cite: 2]."
+    }
+  ],
+  "11 - Bianco.wav": [
+    {
+      "time": 0.0,
+      "end": 165.442,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau s'articule clairement autour de G majeur et C majeur (Gmaj, Cmaj, Dmaj, Amin). L'auto-annotation indique D majeur / A majeur à tort, la progression est centrée sur G[cite: 2]."
+    }
+  ],
+  "11 Bianco.wav": [
+    {
+      "time": 0.0,
+      "end": 359.282,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La tonalité de G majeur est confirmée de bout en bout par la boucle d'accords Gmaj, Cmaj, Dmaj, Amin[cite: 2]."
+    }
+  ],
+  "12 - Ifonako.wav": [
+    {
+      "time": 0.0,
+      "end": 258.879,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste est très stable en B majeur (Si majeur). L'harmonie (Bmaj, F#maj, Emaj, G#min, D#min) confirme ce centre tonal unique tout au long du morceau[cite: 2]."
+    }
+  ],
+  "12 Hifonako.wav": [
+    {
+      "time": 0.0,
+      "end": 258.879,
+      "key": "B:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité stable en B majeur, identique à la version précédente[cite: 2]."
+    }
+  ],
+  "42.wav": [
+    {
+      "time": 0.0,
+      "end": 163.143,
+      "key": "F:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste s'ouvre et s'établit longuement en F mineur (Fmin, Cmin, C7)[cite: 2]."
+    },
+    {
+      "time": 163.143,
+      "end": 237.401,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau bascule vers le relatif majeur, Ab majeur (G# maj), pour sa dernière partie, avec l'apparition marquée de Abmaj, C#maj, Ebmaj[cite: 2]."
+    }
+  ],
+  "ADGtH - You Can't Keep a Good Dog Down [obsolete, check channel].wav": [
+    {
+      "time": 0.0,
+      "end": 68.034,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute en Ab majeur (G# maj)[cite: 2]."
+    },
+    {
+      "time": 68.034,
+      "end": 127.965,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation au ton de la dominante, Eb majeur (D# maj)[cite: 2]."
+    },
+    {
+      "time": 127.965,
+      "end": 164.513,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour en Ab majeur[cite: 2]."
+    },
+    {
+      "time": 166.789,
+      "end": 196.975,
+      "key": "D:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Le morceau se termine sur une modulation abrupte et éloignée vers D majeur, très théâtrale[cite: 2]."
+    }
+  ],
+  "All My Love (Remaster).wav": [
+    {
+      "time": 0.0,
+      "end": 93.832,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le titre commence en G majeur avec des accords très diatoniques (Gmaj, Amin, Dmin, Cmaj, Emin)[cite: 2]."
+    },
+    {
+      "time": 93.832,
+      "end": 131.495,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation classique d'un demi-ton vers Ab majeur (G# maj)[cite: 2]."
+    },
+    {
+      "time": 131.495,
+      "end": 152.137,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Seconde modulation ascendante d'un demi-ton vers A majeur[cite: 2]."
+    },
+    {
+      "time": 152.137,
+      "end": 355.915,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Troisième et dernière modulation vers Bb majeur (A# maj), maintenue jusqu'à la fin de la chanson[cite: 2]."
+    }
+  ],
+  "All-4-One - I Swear (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 157.64,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Ballade pop démarrant de manière très stable en D majeur (Dmaj, Gmaj, Amaj, Bmin)[cite: 2]."
+    },
+    {
+      "time": 157.64,
+      "end": 263.454,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale typique d'un ton entier vers E majeur (Emaj, Amaj, Bmaj, C#min) pour donner plus d'énergie à la fin du morceau[cite: 2]."
+    }
+  ],
+  "Another Girl (Remastered 2009).wav": [
+    {
+      "time": 0.0,
+      "end": 102.168,
+      "key": "C#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "L'harmonie est très mouvante (caractéristique des Beatles), avec une première partie balançant autour de C# mineur / A majeur et des emprunts inattendus (Abmaj, F#maj)[cite: 2]."
+    },
+    {
+      "time": 102.168,
+      "end": 164.328,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La fin de la piste s'ancre plus nettement dans le ton relatif majeur de E majeur[cite: 2]."
+    }
+  ],
+  "Antonio Carlos Jobim - Desafinado.wav": [
+    {
+      "time": 0.0,
+      "end": 72.539,
+      "key": "F:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Standard de Bossa Nova aux harmonies très sinueuses et chromatiques. Le début gravite de façon ambiguë autour de F majeur / F mineur[cite: 2]."
+    },
+    {
+      "time": 91.208,
+      "end": 164.328,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La structure globale résout et s'articule majoritairement autour du centre de F majeur, malgré de très nombreuses dominantes secondaires et ii-V-I passagers[cite: 2]."
+    }
+  ],
+  "Anyone Who Had A Heart.wav": [
+    {
+      "time": 0.0,
+      "end": 23.615,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute en A mineur, avec une progression vers Fmaj7 et Bbmaj7[cite: 2]."
+    },
+    {
+      "time": 23.615,
+      "end": 47.345,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers Ab majeur (G# maj) en passant par Ebmaj et Cmin7[cite: 2]."
+    },
+    {
+      "time": 47.345,
+      "end": 70.24,
+      "key": "C:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage centré sur C majeur / A mineur[cite: 2]."
+    },
+    {
+      "time": 70.24,
+      "end": 182.695,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste se stabilise finalement et se termine dans la tonalité de Ab majeur (G# maj)[cite: 2]."
+    }
+  ],
+  "Aretha Franklin - Respect (Official Lyric Video).wav": [
+    {
+      "time": 0.0,
+      "end": 150.117,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Ce classique R&B repose fondamentalement sur le groove de dominante (C7) et la relation avec Fmaj. Le centre tonal affirmé est C majeur / C dominant[cite: 2]."
+    }
+  ],
+  "Backstreet Boys - Quit Playing Games (With My Heart) (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 233.941,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'intégralité du morceau est construite sur la boucle répétitive en D majeur (Amaj, Bmin, Gmaj, Dmaj). Aucune modulation n'est présente[cite: 2]."
+    }
+  ],
+  "Backstreet Boys - Shape Of My Heart (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 228.972,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité stable en D majeur du début à la fin. La trame (Dmaj, Amaj, Gmaj, Bmin) est typique du style et maintient une couleur diatonique constante[cite: 2]."
+    }
+  ],
+  "Barry Manilow - Can't Smile Without You (Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 112.477,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson démarre joyeusement en D majeur (ou G majeur selon l'auto-annotation, mais la présence de Dmaj, Gmaj, Amin penche plutôt vers G majeur en réalité. L'auto-annotation pointe vers D)[cite: 2]."
+    },
+    {
+      "time": 112.477,
+      "end": 125.365,
+      "key": "A:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Bref passage modulant vers A mineur avant de relancer l'harmonie[cite: 2]."
+    }
+  ],
+  "Barry Manilow - Copacabana - 1978..wav": [
+    {
+      "time": 0.0,
+      "end": 163.143,
+      "key": "F:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le célèbre titre disco démarre avec une boucle caractéristique en F mineur (Fmin, Cmin, C7)[cite: 2]."
+    },
+    {
+      "time": 163.143,
+      "end": 237.401,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Transition vers le relatif majeur, Ab majeur (G# maj), donnant cette couleur si festive au refrain[cite: 2]."
+    }
+  ],
+  "Belinda Carlisle - Heaven Is A Place On Earth (Official Music Video) (4K Remaster).wav": [
+    {
+      "time": 0.0,
+      "end": 162.099,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Tonalité puissante et stable établie en F# majeur, avec des accords typiques des hymnes pop des années 80 (F#maj, Bmaj, C#maj, Ebmin, Abmin)[cite: 2]."
+    },
+    {
+      "time": 205.45,
+      "end": 272.788,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Après quelques sections de pont, le morceau se conclut sur la même tonalité épique de F# majeur[cite: 2]."
+    }
+  ],
+
+
+
+
+
+  "Bell Bottom Blues.wav": [
+    {
+      "time": 0.0,
+      "end": 41.471,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste démarre en C majeur."
+    },
+    {
+      "time": 41.471,
+      "end": 73.932,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau présente une structure alternant régulièrement avec A majeur."
+    },
+    {
+      "time": 73.932,
+      "end": 301.72,
+      "key": "C:maj / A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'alternance entre C majeur et A majeur se poursuit par blocs réguliers jusqu'à la fin de la piste."
+    }
+  ],
+  "Bill Evans - Waltz For Debby.wav": [
+    {
+      "time": 0.0,
+      "end": 269.514,
+      "key": "F:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Bien que des modulations passagères vers G mineur, E majeur et D mineur soient détectées dans les annotations, le ton global se résout et s'articule majoritairement autour de F majeur."
+    }
+  ],
+  "Bill Evans-My Foolish Heart.wav": [
+    {
+      "time": 0.0,
+      "end": 72.864,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau s'ouvre de manière prolongée en A majeur."
+    },
+    {
+      "time": 72.864,
+      "end": 82.988,
+      "key": "F#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Brève incursion modulante vers F# majeur."
+    },
+    {
+      "time": 82.988,
+      "end": 279.359,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et maintien du ton principal en A majeur pour le reste de la piste."
+    }
+  ],
+  "Billy Joel - Scenes from an Italian Restaurant (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 82.965,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Début solidement ancré en F majeur."
+    },
+    {
+      "time": 82.965,
+      "end": 405.188,
+      "key": "G:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La longue section centrale évolue principalement autour de G majeur, avec des emprunts passagers à Eb majeur et Bb majeur."
+    },
+    {
+      "time": 357.75,
+      "end": 452.418,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste se conclut par un retour définitif à la tonalité initiale de F majeur."
+    }
+  ],
+  "Black Narcissus with Saalik's 5 after 7 Project.wav": [
+    {
+      "time": 0.0,
+      "end": 547.457,
+      "key": "G#:min",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Pièce de jazz très complexe harmoniquement. L'annotation indique des modulations multiples et fragmentées (C# majeur, F majeur, A majeur, B majeur, D majeur), mais le centre de gravité principal tourne autour de G# mineur."
+    }
+  ],
+  "Bon Jovi - You Give Love A Bad Name.wav": [
+    {
+      "time": 0.0,
+      "end": 246.875,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'intégralité du morceau est annotée avec une tonalité stable en Ab majeur (G# majeur)."
+    }
+  ],
+  "Boyz II Men - I'll Make Love To You (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 112.477,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première partie de cette ballade est en D majeur."
+    },
+    {
+      "time": 112.477,
+      "end": 264.824,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Le morceau évolue et module vers A majeur, avec quelques passages ambigus teintés de C majeur et A mineur dans les ponts."
+    }
+  ],
+  "Britney Spears - Where Are You Now (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 103.213,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le titre commence en G majeur."
+    },
+    {
+      "time": 103.213,
+      "end": 280.126,
+      "key": "C#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers C# majeur, qui s'installe jusqu'à la fin de la chanson avec un court passage en G# majeur."
+    }
+  ],
+  "Charles Aznavour - La bohème (Official Lyrics Video).wav": [
+    {
+      "time": 0.0,
+      "end": 16.184,
+      "key": "C:maj",
+      "confidence": "low",
+      "data_support": "moyen",
+      "note": "Introduction ambiguë annotée en C majeur."
+    },
+    {
+      "time": 16.184,
+      "end": 244.227,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le corps de la chanson est solidement établi en C mineur, tonalité caractéristique du morceau."
+    }
+  ],
+  "Charles Trenet - La mer (Officiel) [Live Version].wav": [
+    {
+      "time": 0.0,
+      "end": 62.113,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Début de la chanson en C majeur."
+    },
+    {
+      "time": 62.113,
+      "end": 74.281,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation classique du pont en E majeur."
+    },
+    {
+      "time": 74.281,
+      "end": 236.658,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et maintien en C majeur pour la résolution de la chanson (avec un autre bref passage en E majeur au second pont)."
+    }
+  ],
+  "Charlie Parker- Confirmation.wav": [
+    {
+      "time": 0.0,
+      "end": 180.814,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Bien qu'il s'agisse d'un standard bebop complexe, le centre tonal global reste solidement analysé en F majeur sur toute la piste."
+    }
+  ],
+  "Cheap Trick - Surrender (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 255.35,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson rock maintient une tonalité stable en Bb majeur (A# majeur) du début à la fin, sans modulation."
+    }
+  ],
+  "Cher - If I Could Turn Back Time (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 105.744,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première grande partie du titre est en E majeur."
+    },
+    {
+      "time": 105.744,
+      "end": 122.346,
+      "key": "B:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Brève inflexion vers B mineur lors d'un pont."
+    },
+    {
+      "time": 122.346,
+      "end": 202.501,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Le morceau se déplace vers A majeur."
+    },
+    {
+      "time": 202.501,
+      "end": 244.274,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste se conclut par une modulation triomphante vers F# majeur."
+    }
+  ],
+  "Cher - Strong Enough (Official Video) [HD Remaster].wav": [
+    {
+      "time": 0.0,
+      "end": 89.884,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau débute en Eb majeur (D# majeur)."
+    },
+    {
+      "time": 89.884,
+      "end": 194.421,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson bascule durablement vers son relatif mineur, C mineur."
+    },
+    {
+      "time": 194.421,
+      "end": 230.597,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au ton initial de Eb majeur pour clore la piste."
+    }
+  ],
+  "Cheryl Lynn - Got To Be Real (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 167.834,
+      "key": "G:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La boucle disco iconique installe un puissant centre de gravité en G mineur sur la majeure partie de la chanson (avec des passages alternant avec C mineur)."
+    },
+    {
+      "time": 167.834,
+      "end": 221.913,
+      "key": "D#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La fin du morceau offre des inflexions colorées vers Eb majeur (D# maj) et de légers passages en C# majeur."
+    }
+  ],
+  "Cold Chisel - Flame Trees [Official Video].wav": [
+    {
+      "time": 0.0,
+      "end": 78.321,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "L'introduction et les premiers couplets s'articulent autour de A majeur."
+    },
+    {
+      "time": 78.321,
+      "end": 262.014,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le véritable centre de résolution s'affirme ensuite en E majeur pour le reste de la chanson."
+    }
+  ],
+  "Coldplay - Fix You (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 293.825,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Morceau d'une très grande stabilité tonale, construit entièrement en Eb majeur (D# majeur) du début à la fin."
+    }
+  ],
+  "Céline Dion - All By Myself (Official Remastered HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 136.092,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La ballade débute et reste longtemps ancrée en A majeur (malgré quelques glissements momentanés vers G majeur et A mineur)."
+    },
+    {
+      "time": 136.092,
+      "end": 225.791,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'envolée du morceau s'accompagne d'une puissante modulation vers C majeur."
+    },
+    {
+      "time": 225.791,
+      "end": 304.298,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Retour au ton d'origine (A majeur) pour la conclusion de la piste."
+    }
+  ],
+  "Céline Dion - It's All Coming Back to Me Now (Official Extended Remastered HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 336.48,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est remarquablement stable et entièrement harmonisé autour de la tonalité de C majeur."
+    }
+  ],
+  "Céline Dion - S'il suffisait d'aimer (Audio officiel).wav": [
+    {
+      "time": 0.0,
+      "end": 195.582,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'analyse donne une prédominance de G majeur pour l'ensemble du morceau."
+    },
+    {
+      "time": 195.582,
+      "end": 255.35,
+      "key": "C:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Modulation ou changement de polarité vers C majeur dans la toute dernière partie."
+    }
+  ],
+  "Céline Dion - The Power Of Love (Official Remastered HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 287.556,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste maintient une tonalité stable et ininterrompue en Ab majeur (G# maj) de bout en bout."
+    }
+  ],
+  "David Bowie - Warszawa.wav": [
+    {
+      "time": 0.0,
+      "end": 50.248,
+      "key": "A:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La première partie, très atmosphérique, gravite autour de A majeur."
+    },
+    {
+      "time": 50.248,
+      "end": 77.16,
+      "key": "C:maj",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Une brève section s'oriente vers C majeur."
+    },
+    {
+      "time": 77.16,
+      "end": 383.803,
+      "key": "F#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La plus grande partie de l'œuvre s'établit et s'achève solennellement dans une couleur de F# majeur (malgré un passage sombre en C# mineur)."
+    }
+  ],
+  "Don't Let Me Down.wav": [
+    {
+      "time": 0.0,
+      "end": 93.832,
+      "key": "G:maj",
+      "confidence": "low",
+      "data_support": "moyen",
+      "note": "L'annotation suggère une base initiale en G majeur."
+    },
+    {
+      "time": 93.832,
+      "end": 131.495,
+      "key": "G#:maj",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Modulation abrupte notée vers G# majeur."
+    },
+    {
+      "time": 131.495,
+      "end": 195.071,
+      "key": "A#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La fin du morceau présente des passages modulatoires vers A majeur puis A# majeur, bien que cela semble être un artefact de l'algorithme d'annotation ou une version alternative de la piste."
+    }
+  ],
+  "Don't You Worry 'Bout A Thing.wav": [
+    {
+      "time": 0.0,
+      "end": 89.884,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau s'ouvre sur une tonalité claire de Eb majeur (D# maj)."
+    },
+    {
+      "time": 89.884,
+      "end": 194.421,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Il bascule de façon très marquée vers son relatif mineur, C mineur, pour la majeure partie du développement."
+    },
+    {
+      "time": 194.421,
+      "end": 230.597,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au centre Eb majeur pour terminer."
+    }
+  ],
+  "Donnie Mcclurkin - Stand.wav": [
+    {
+      "time": 0.0,
+      "end": 246.875,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "L'ensemble de la piste est fermement structuré et annoté en Ab majeur (G# maj)."
+    }
+  ],
+  "Dusty Springfield - Son of a Preacher Man (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 145.519,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le groove principal et les couplets se jouent inlassablement en E majeur."
+    },
+    {
+      "time": 164.862,
+      "end": 240.814,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation mémorable d'une quarte vers le haut, atterrissant en A majeur pour la fin du morceau."
+    }
+  ],
+  "Eagles - Already Gone (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 195.582,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson rock s'appuie solidement sur la tonalité de G majeur pour les couplets et refrains principaux."
+    },
+    {
+      "time": 195.582,
+      "end": 255.35,
+      "key": "C:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La fin du morceau présente un glissement tonal s'orientant vers C majeur."
+    }
+  ],
+  "Edith Piaf - La foule.wav": [
+    {
+      "time": 0.0,
+      "end": 202.083,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Ce classique de la valse péruvienne (adaptée) est sans équivoque ancré en A mineur (la mineur), avec de constants retours à la tonique après des dominantes E7."
+    }
+  ],
+
+
+
+
+
+  "Edith Piaf - Non, Je ne regrette rien.wav": [
+    {
+      "time": 0.0,
+      "end": 142.872,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau est d'une grande stabilité tonale, solidement ancré en G majeur du début à la fin."
+    }
+  ],
+  "Elton John - Tiny Dancer.wav": [
+    {
+      "time": 0.0,
+      "end": 180.907,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première partie de la chanson s'articule clairement autour de C majeur."
+    },
+    {
+      "time": 160.845,
+      "end": 173.917,
+      "key": "D#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Bref passage modulant vers D# majeur (Eb majeur)."
+    },
+    {
+      "time": 180.907,
+      "end": 330.165,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour prolongé à la tonalité principale de C majeur."
+    },
+    {
+      "time": 330.165,
+      "end": 406.558,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La fin du morceau bascule vers le relatif mineur, A mineur."
+    }
+  ],
+  "Embona.wav": [
+    {
+      "time": 0.0,
+      "end": 235.683,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Piste entièrement construite et annotée en G majeur sans modulation majeure détectée."
+    }
+  ],
+  "Eminence Front.wav": [
+    {
+      "time": 0.0,
+      "end": 340.242,
+      "key": "F:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le groove de ce titre maintient une base harmonique très stable en F mineur sur toute sa durée."
+    }
+  ],
+  "Empire Of The Sun - Walking On A Dream (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 90.883,
+      "key": "F:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première section du morceau s'établit en F mineur."
+    },
+    {
+      "time": 90.883,
+      "end": 152.323,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers la tonalité relative majeure, G# majeur (Ab majeur)."
+    },
+    {
+      "time": 152.323,
+      "end": 199.413,
+      "key": "F:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour à la tonalité initiale de F mineur pour conclure."
+    }
+  ],
+  "Everlasting Everything.wav": [
+    {
+      "time": 0.0,
+      "end": 80.922,
+      "key": "G:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Début annoté en G majeur."
+    },
+    {
+      "time": 33.367,
+      "end": 240.559,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La tonalité glisse et s'affirme durablement en D mineur, qui domine la majeure partie du titre."
+    }
+  ],
+  "Fenofeno.wav": [
+    {
+      "time": 0.0,
+      "end": 223.376,
+      "key": "A#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La quasi-totalité du morceau est solidement ancrée en A# majeur (Bb majeur)."
+    },
+    {
+      "time": 223.376,
+      "end": 238.91,
+      "key": "G:maj",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Courte transition abrupte détectée en G majeur."
+    },
+    {
+      "time": 238.91,
+      "end": 303.392,
+      "key": "C:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La piste se termine par une modulation claire en C majeur."
+    }
+  ],
+  "Fleetwood Mac - Go Your Own Way (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 218.43,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La chanson rock maintient une puissante stabilité en F majeur sur l'intégralité de la piste."
+    }
+  ],
+  "Foreigner Waiting For A Girl Like You 1981 HD 16_9.wav": [
+    {
+      "time": 0.0,
+      "end": 88.932,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Introduction et premiers couplets évoluant en G# majeur (Ab majeur)."
+    },
+    {
+      "time": 88.932,
+      "end": 124.761,
+      "key": "D#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage central modulant vers D# mineur (Eb mineur)."
+    },
+    {
+      "time": 124.761,
+      "end": 184.204,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour au pôle G# majeur."
+    },
+    {
+      "time": 224.816,
+      "end": 287.811,
+      "key": "F:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La fin du titre bascule vers F mineur, relatif de la tonalité principale."
+    }
+  ],
+  "Francis Cabrel - Je l'aime à mourir (Lyrics vidéo officielle).wav": [
+    {
+      "time": 0.0,
+      "end": 163.654,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau classique acoustique est fidèlement articulé autour de F majeur de bout en bout."
+    }
+  ],
+  "Frank Sinatra - The Way You Look Tonight (Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 126.642,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La tonalité initiale est solidement établie en D# majeur (Eb majeur)."
+    },
+    {
+      "time": 72.771,
+      "end": 151.719,
+      "key": "F#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "L'arrangement jazz complexe introduit une longue section modulante vers F# majeur."
+    },
+    {
+      "time": 155.458,
+      "end": 201.851,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation finale majestueuse typique des arrangements big band vers E majeur pour conclure."
+    }
+  ],
+  "Genesis - Firth Of Fifth (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 574.949,
+      "key": "Multiple",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Opus de rock progressif très riche harmoniquement. L'algorithme détecte de nombreuses sections distinctes (D# maj, F# maj, E maj, G min, D maj, A min, E min, B maj) qui reflètent la structure épique et changeante du morceau."
+    }
+  ],
+  "Getaway Car.wav": [
+    {
+      "time": 0.0,
+      "end": 137.462,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La première grande moitié du morceau est en C majeur."
+    },
+    {
+      "time": 137.462,
+      "end": 233.639,
+      "key": "D:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation claire (montée d'un ton) vers D majeur qui se maintient jusqu'à la fin."
+    }
+  ],
+
+
+
+
+
+  "Love Street (2018 Remaster).wav": [
+    {
+      "time": 0.0,
+      "end": 172.013,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Morceau très modulant. Démarre et s'articule autour de C majeur, avec des transitions fréquentes vers F majeur, A majeur, pour finalement se stabiliser en D majeur dans la dernière minute."
+    }
+  ],
+  "Lucy In The Sky With Diamonds (Remastered 2009).wav": [
+    {
+      "time": 0.0,
+      "end": 209.676,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Structure tonale complexe et psychédélique typique du morceau. Alterne constamment entre A majeur, F majeur et D majeur."
+    }
+  ],
+  "MGMT - Electric Feel (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 228.461,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Stabilité parfaite. Le morceau entier est solidement ancré en C mineur (Do mineur) du début à la fin."
+    }
+  ],
+  "MIKA - Popular Song ft. Ariana Grande.wav": [
+    {
+      "time": 0.046,
+      "end": 206.611,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Piste pop très stable, intégralement détectée en D# majeur (Eb majeur)."
+    }
+  ],
+  "Madness - Our House (Official 4K Video).wav": [
+    {
+      "time": 0.0,
+      "end": 226.348,
+      "key": "Multiple",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Le titre navigue à travers plusieurs tonalités, démarrant en G majeur, passant fréquemment par D mineur, avec des incursions en E mineur et A mineur."
+    }
+  ],
+  "Maiden Voyage (Remastered 1999⧸Rudy Van Gelder Edition).wav": [
+    {
+      "time": null,
+      "end": null,
+      "key": "Error",
+      "confidence": "none",
+      "data_support": "nul",
+      "note": "Erreur de lecture du fichier audio signalée par l'algorithme (ismir_engine code 1)."
+    }
+  ],
+  "Malagasy Folk Dance Medley.wav": [
+    {
+      "time": 0.0,
+      "end": 449.538,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Stabilité tonale exceptionnelle pour ce long medley, intégralement maintenu en C majeur sur plus de 7 minutes."
+    }
+  ],
+  "Mamiko (acoustique).wav": [
+    {
+      "time": 0.0,
+      "end": 211.441,
+      "key": "G#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La majeure partie du morceau est en G# majeur (Ab majeur)."
+    },
+    {
+      "time": 211.441,
+      "end": 248.384,
+      "key": "F#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Modulation descendante vers F# majeur dans le dernier quart."
+    },
+    {
+      "time": 248.384,
+      "end": 262.78,
+      "key": "G#:min",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Conclusion détectée en G# mineur."
+    }
+  ],
+  "Mamiko.wav": [
+    {
+      "time": 0.0,
+      "end": 185.086,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Début de la version studio en C majeur."
+    },
+    {
+      "time": 185.086,
+      "end": 250.706,
+      "key": "A:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Bascule vers le relatif mineur (A mineur) pour la dernière minute."
+    }
+  ],
+  "Mariah Carey - Vision Of Love.wav": [
+    {
+      "time": 0.0,
+      "end": 16.695,
+      "key": "C:min",
+      "confidence": "low",
+      "data_support": "faible",
+      "note": "Brève introduction détectée en C mineur."
+    },
+    {
+      "time": 16.695,
+      "end": 83.313,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Installation du thème principal en C majeur."
+    },
+    {
+      "time": 83.313,
+      "end": 125.341,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulation vers F majeur."
+    },
+    {
+      "time": 125.341,
+      "end": 209.932,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et conclusion majestueuse en C majeur."
+    }
+  ],
+  "Mark Ronson - Uptown Funk (Official Video) ft. Bruno Mars.wav": [
+    {
+      "time": 0.0,
+      "end": 270.42,
+      "key": "D:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Groove funk imperturbable, entièrement construit et polarisé sur D mineur."
+    }
+  ],
+  "Michael Jackson - Earth Song (Official Video).wav": [
+    {
+      "time": 0.0,
+      "end": 227.463,
+      "key": "G#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première moitié épique du morceau ancrée en G# mineur (Ab mineur)."
+    },
+    {
+      "time": 227.463,
+      "end": 404.584,
+      "key": "A#:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Célèbre modulation (montée d'un ton) vers A# mineur (Bb mineur) pour le climax et la fin de la chanson."
+    }
+  ],
+
+
+
+
+
+  "Oasis - Don’t Look Back In Anger.wav": [
+    {
+      "time": 0.0,
+      "end": 287.718,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Extrêmement stable, le morceau est analysé en C majeur sur l'intégralité de sa durée."
+    }
+  ],
+  "Paul Simon - Still Crazy After All These Years (Official Audio).wav": [
+    {
+      "time": 0.0,
+      "end": 208.492,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Dominance claire de la tonalité G majeur d'un bout à l'autre de la piste."
+    }
+  ],
+  "Pink Floyd - The Great Gig In The Sky (Official 2023 Remaster).wav": [
+    {
+      "time": 0.0,
+      "end": 72.702,
+      "key": "F:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Introduction évoluant principalement autour de F majeur."
+    },
+    {
+      "time": 72.702,
+      "end": 101.587,
+      "key": "D#:min",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Transition vers D# mineur (Eb mineur)."
+    },
+    {
+      "time": 101.587,
+      "end": 119.583,
+      "key": "A#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Passage en A# majeur (Bb majeur)."
+    },
+    {
+      "time": 119.583,
+      "end": 284.073,
+      "key": "D#:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La grande section vocale et finale s'ancre profondément en D# majeur (Eb majeur)."
+    }
+  ],
+  "Pretenders - Back on the Chain Gang (Official Music Video).wav": [
+    {
+      "time": 0.0,
+      "end": 225.535,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau alterne entre A# majeur et D# mineur à plusieurs reprises, démontrant une structure modulante."
+    }
+  ],
+  "Queen - The March of The Black Queen (Official Lyric Video).wav": [
+    {
+      "time": 0.0,
+      "end": 398.315,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Conformément au style de Queen, ce morceau rock épique traverse de multiples tonalités : D# mineur, F majeur, A# majeur, C majeur, F# mineur, puis D# majeur pour finir en C majeur."
+    }
+  ],
+  "Queen – Bohemian Rhapsody (Official Video Remastered).wav": [
+    {
+      "time": 0.0,
+      "end": 359.468,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Chef-d'œuvre modulant : l'algorithme détecte le début en C mineur (intro/ballade a capella), puis de longues sections en C majeur et F majeur reflétant les sections opéra et rock."
+    }
+  ],
+  "R.E.M. - Stand (Video).wav": [
+    {
+      "time": 0.0,
+      "end": 153.159,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La majorité du morceau est en E majeur."
+    },
+    {
+      "time": 153.159,
+      "end": 193.933,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Modulations ascendantes successives caractéristiques à la fin du morceau, passant de F# majeur à C# majeur puis G# majeur."
+    }
+  ],
+  "Radiohead - Creep.wav": [
+    {
+      "time": 0.0,
+      "end": 236.542,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Malgré les emprunts d'accords hors tonalité (ex: C mineur), l'algorithme identifie la tonalité globale stable en G majeur."
+    }
+  ],
+  "Radiohead - Paranoid Android.wav": [
+    {
+      "time": 0.0,
+      "end": 263.546,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La plus grande partie de cette structure complexe est identifiée autour de C mineur."
+    },
+    {
+      "time": 263.546,
+      "end": 392.603,
+      "key": "F:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "La section finale bascule vers le relatif F majeur."
+    }
+  ],
+  "Red Hot Chili Peppers - Under The Bridge [Official Music Video].wav": [
+    {
+      "time": 0.0,
+      "end": 271.186,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau montre une dualité claire, basculant principalement entre E majeur et G majeur, reflétant l'intro/couplets versus refrains/outro."
+    }
+  ],
+  "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster).wav": [
+    {
+      "time": 0.0,
+      "end": 213.066,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La piste est annotée avec des changements fréquents de centres tonals, principalement A# mineur, D# mineur, et une section en F majeur à la fin."
+    }
+  ],
+  "Rihanna - Only Girl (In The World).wav": [
+    {
+      "time": 0.0,
+      "end": 251.495,
+      "key": "B:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Morceau dance pop d'une grande stabilité, intégralement en B mineur."
+    }
+  ],
+  "Roxette - It Must Have Been Love (Official Music Video) (Remastered).wav": [
+    {
+      "time": 0.0,
+      "end": 259.646,
+      "key": "Multiple",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Débute en C majeur, suivi d'une longue section en D mineur, avant de moduler en E majeur et E mineur pour la seconde moitié."
+    }
+  ],
+  "When I Get Home.wav": [
+    {
+      "time": 0.0,
+      "end": 129.962,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Introduction très brève en A mineur, se stabilisant rapidement en E majeur, pour terminer sur une section en F majeur."
+    }
+  ],
+  "Whitney Houston - How Will I Know (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 107.346,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Première section solidement en A majeur."
+    },
+    {
+      "time": 107.346,
+      "end": 114.567,
+      "key": "C#:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Courte transition modulante détectée en C# majeur."
+    },
+    {
+      "time": 114.567,
+      "end": 237.749,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Retour et maintien en A majeur jusqu'à la fin."
+    }
+  ],
+  "Whitney Houston - I Have Nothing (The Concert for a New South Africa [Durban] - LIVE).wav": [
+    {
+      "time": 0.0,
+      "end": 369.058,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Performance vocale épique avec de multiples modulations : oscille entre F majeur et G# majeur avant de conclure sur une puissante modulation en A majeur pour la dernière minute."
+    }
+  ],
+  "Whitney Houston - I Will Always Love You (Official 4K Video).wav": [
+    {
+      "time": 0.0,
+      "end": 153.159,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Les deux premiers tiers de la balade sont en E majeur."
+    },
+    {
+      "time": 153.159,
+      "end": 193.933,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "La fameuse modulation finale du titre est détectée, passant par F# majeur, brièvement C# majeur, pour exploser en G# majeur (Ab majeur) sur la fin."
+    }
+  ],
+  "Whitney Houston - Saving All My Love For You (Official HD Video).wav": [
+    {
+      "time": 0.0,
+      "end": 77.88,
+      "key": "C:maj",
+      "confidence": "medium",
+      "data_support": "moyen",
+      "note": "Le morceau démarre avec une détection en C majeur."
+    },
+    {
+      "time": 77.88,
+      "end": 306.48,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le reste de la chanson s'installe durablement en A majeur."
+    }
+  ],
+  "You Don't Have To Say You Love Me.wav": [
+    {
+      "time": 0.0,
+      "end": 203.175,
+      "key": "Multiple",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Le morceau évolue principalement en A mineur, avec un pont central détecté en A# mineur (Bb mineur) avant de revenir en A mineur."
+    }
+  ],
+  "You're Going To Lose That Girl (Remastered 2009).wav": [
+    {
+      "time": 0.0,
+      "end": 138.67,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Chanson classique annotée avec une stabilité parfaite en E majeur sur toute la durée."
+    }
+  ],
+  "You've Got A Friend.wav": [
+    {
+      "time": 0.0,
+      "end": 285.095,
+      "key": "G:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Stabilité constante en G majeur d'un bout à l'autre de la piste."
+    }
+  ],
+  "artist - AINA MIRAY.wav": [
+    {
+      "time": 0.0,
+      "end": 317.951,
+      "key": "A:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Morceau d'une stabilité totale, annoté à 100% en A majeur."
+    }
+  ],
+  "artist - ANKINO.wav": [
+    {
+      "time": 0.0,
+      "end": 304.808,
+      "key": "C:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Piste entièrement construite en C majeur sans aucune modulation détectée."
+    }
+  ],
+  "artist - FIENONAO.wav": [
+    {
+      "time": 0.0,
+      "end": 245.574,
+      "key": "C:min",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Base harmonique très stable, entièrement annotée en C mineur."
+    }
+  ],
+  "artist - GASY MODY.wav": [
+    {
+      "time": 0.0,
+      "end": 241.325,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Totalité du morceau ancrée en E majeur."
+    }
+  ],
+  "artist - HIRAN' NY NENY.wav": [
+    {
+      "time": 0.0,
+      "end": 363.439,
+      "key": "E:maj",
+      "confidence": "high",
+      "data_support": "fort",
+      "note": "Stabilité parfaite sur plus de 6 minutes en E majeur."
+    }
+  ],
+  "artist - SUR EAU.wav": [
+    {
+      "time": 0.0,
+      "end": 612.589,
+      "key": "Multiple",
+      "confidence": "medium",
+      "data_support": "fort",
+      "note": "Morceau complexe passant par C# majeur, G# majeur, et finissant en D# majeur."
+    }
+  ],
+  "宇多田ヒカル - First Love.wav": [
+    {
+      "time": null,
+      "end": null,
+      "key": "Error",
+      "confidence": "none",
+      "data_support": "nul",
+      "note": "Erreur ismir_engine code 1 : Fichier audio impossible à lire."
+    }
+  ],
+  "竹内まりや -  Plastic Love (Official Music Video).wav": [
+    {
+      "time": null,
+      "end": null,
+      "key": "Error",
+      "confidence": "none",
+      "data_support": "nul",
+      "note": "Erreur ismir_engine code 1 : Fichier audio impossible à lire."
+    }
+  ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

@@ -1,0 +1,359 @@
+{
+  "ABBA - The Winner Takes It All.wav": [
+    { "time": 0.0, "key": "D#:min", "confidence": "auto" },
+    { "time": 26.355, "key": "C#:maj", "confidence": "auto" },
+    { "time": 113.685, "key": "F#:maj", "confidence": "auto" },
+    { "time": 193.027, "key": "D#:min", "confidence": "auto" },
+    { "time": 197.254, "key": "C#:maj", "confidence": "auto" },
+    { "time": 237.656, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Adele - Someone Like You (Official Music Video).wav": [
+    { "time": 0.0, "key": "A:maj", "confidence": "auto" },
+    { "time": 266.333, "key": "D:maj", "confidence": "auto" }
+  ],
+  "Bon Jovi - Always (Official Music Video).wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" },
+    { "time": 193.817, "key": "D:maj", "confidence": "auto" },
+    { "time": 213.647, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Bruno Mars - When I Was Your Man (Official Music Video).wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Charles Aznavour - La bohème (Official Lyrics Video).wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 16.184, "key": "C:min", "confidence": "auto" }
+  ],
+  "Christina Aguilera - Hurt (Official Video).wav": [
+    { "time": 0.0, "key": "A:min", "confidence": "auto" },
+    { "time": 17.578, "key": "A:maj", "confidence": "auto" },
+    { "time": 36.386, "key": "E:min", "confidence": "auto" }
+  ],
+  "Coldplay - Fix You (Official Video).wav": [
+    { "time": 0.0, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "Ed Sheeran - Perfect (Official Music Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "Ella Fitzgerald - Blue Moon..wav": [
+    { "time": 0.0, "key": "F:maj", "confidence": "auto" },
+    { "time": 36.177, "key": "A#:maj", "confidence": "auto" },
+    { "time": 89.699, "key": "C#:maj", "confidence": "auto" },
+    { "time": 94.436, "key": "F:maj", "confidence": "auto" },
+    { "time": 101.727, "key": "A#:maj", "confidence": "auto" },
+    { "time": 143.755, "key": "C#:maj", "confidence": "auto" },
+    { "time": 150.419, "key": "F:maj", "confidence": "auto" },
+    { "time": 175.287, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "Frank Sinatra - Fly Me To The Moon (Audio) ft. Count Basie And His Orchestra.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Jacques Brel - Ne me quitte pas.wav": [
+    { "time": 0.0, "key": "G#:min", "confidence": "auto" }
+  ],
+  "Katy Perry - Firework (Official Music Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" },
+    { "time": 109.668, "key": "F:min", "confidence": "auto" },
+    { "time": 177.4, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "Kelly Clarkson - Because Of You (Official HD Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" },
+    { "time": 124.598, "key": "D#:maj", "confidence": "auto" },
+    { "time": 176.007, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "Mariah Carey - Hero (Official Lyric Video).wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" },
+    { "time": 156.572, "key": "G:maj", "confidence": "auto" },
+    { "time": 184.575, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Nat King Cole - Unforgettable.wav": [
+    { "time": 0.0, "key": "F:maj", "confidence": "auto" },
+    { "time": 28.537, "key": "G:min", "confidence": "auto" },
+    { "time": 42.121, "key": "C:maj", "confidence": "auto" },
+    { "time": 76.533, "key": "A#:maj", "confidence": "auto" },
+    { "time": 95.179, "key": "C#:maj", "confidence": "auto" },
+    { "time": 127.083, "key": "G#:maj", "confidence": "auto" },
+    { "time": 139.343, "key": "F:maj", "confidence": "auto" },
+    { "time": 161.704, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "Queen - Somebody To Love (Official Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" },
+    { "time": 37.152, "key": "D#:maj", "confidence": "auto" },
+    { "time": 51.966, "key": "G#:maj", "confidence": "auto" },
+    { "time": 73.352, "key": "D#:maj", "confidence": "auto" },
+    { "time": 88.12, "key": "G#:maj", "confidence": "auto" },
+    { "time": 110.388, "key": "F#:maj", "confidence": "auto" },
+    { "time": 116.703, "key": "D#:maj", "confidence": "auto" },
+    { "time": 147.191, "key": "G#:maj", "confidence": "auto" },
+    { "time": 168.461, "key": "D#:maj", "confidence": "auto" },
+    { "time": 183.205, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "Whitney Houston - I Will Always Love You (Official 4K Video).wav": [
+    { "time": 0.0, "key": "A:maj", "confidence": "auto" },
+    { "time": 190.822, "key": "B:maj", "confidence": "auto" }
+  ],
+  "Adele - Hello (Official Music Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "Adele - Rolling in the Deep (Official Music Video).wav": [
+    { "time": 0.0, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "Alicia Keys - If I Ain't Got You (Official HD Video).wav": [
+    { "time": 0.0, "key": "G:maj", "confidence": "auto" }
+  ],
+  "Coldplay - The Scientist (Official 4K Video).wav": [
+    { "time": 0.0, "key": "F:maj", "confidence": "auto" }
+  ],
+  "Céline Dion - It's All Coming Back to Me Now (Official Extended Remastered HD Video).wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Céline Dion - The Power Of Love (Official Remastered HD Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "John Legend - All of Me (Official Video).wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "Mariah Carey - Vision Of Love.wav": [
+    { "time": 0.0, "key": "C:min", "confidence": "auto" },
+    { "time": 16.695, "key": "C:maj", "confidence": "auto" },
+    { "time": 83.313, "key": "F:maj", "confidence": "auto" },
+    { "time": 125.341, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Oasis - Wonderwall (Official Video).wav": [
+    { "time": 0.0, "key": "A:maj", "confidence": "auto" },
+    { "time": 168.948, "key": "F#:min", "confidence": "auto" }
+  ],
+  "Radiohead - Creep.wav": [
+    { "time": 0.0, "key": "G:maj", "confidence": "auto" }
+  ],
+  "Robbie Williams - Angels.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Sam Smith - Stay With Me (Official Music Video).wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Scorpions - Wind Of Change (Official Music Video).wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Taylor Swift - Love Story.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" },
+    { "time": 196.325, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Whitney Houston - One Moment In Time (Official HD Video).wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 235.984, "key": "C:min", "confidence": "auto" },
+    { "time": 253.469, "key": "C#:maj", "confidence": "auto" }
+  ],
+  "02-Misaotra anao ry ray.wav": [
+    { "time": 0.0, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "03-Ry jehovah tomponay.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "04-He! mahatoky aho, Tompo.wav": [
+    { "time": 0.0, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "07-Mamafaza voa.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "08-Atolotro anao ny tenako.wav": [
+    { "time": 0.0, "key": "G:maj", "confidence": "auto" }
+  ],
+  "09-Arovy aho Tompo.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "10 Tiako hiova.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 22.477, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "10-Avia ry vazan-tany ô!.wav": [
+    { "time": 0.0, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "11 Arahaba.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "12 Tsy hisy ve.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 229.274, "key": "D:maj", "confidence": "auto" }
+  ],
+  "14-Mamy ny teninao.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "16-Iza no hanompo.wav": [
+    { "time": 0.0, "key": "A:maj", "confidence": "auto" }
+  ],
+  "167 - Midera ny anaranao.wav": [
+    { "time": 0.0, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "ANTSIKA JIABY NJAKATIANA.wav": [
+    { "time": 0.0, "key": "F:maj", "confidence": "auto" },
+    { "time": 176.704, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Embona sy hanina.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Fisaraham-panambadiana.wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" },
+    { "time": 25.217, "key": "B:maj", "confidence": "auto" },
+    { "time": 41.982, "key": "F#:maj", "confidence": "auto" },
+    { "time": 69.59, "key": "D#:maj", "confidence": "auto" },
+    { "time": 93.391, "key": "B:maj", "confidence": "auto" },
+    { "time": 123.716, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Fony isika.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "Françoise.wav": [
+    { "time": 0.0, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Frère Jaque.wav": [
+    { "time": 0.0, "key": "B:maj", "confidence": "auto" }
+  ],
+  "Hihira ho an'ireo mafiady.wav": [
+    { "time": 0.0, "key": "E:min", "confidence": "auto" },
+    { "time": 13.468, "key": "B:maj", "confidence": "auto" },
+    { "time": 35.225, "key": "F#:maj", "confidence": "auto" },
+    { "time": 96.525, "key": "D#:min", "confidence": "auto" },
+    { "time": 128.662, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Hira malaky.wav": [
+    { "time": 0.0, "key": "E:min", "confidence": "auto" },
+    { "time": 13.444, "key": "F#:maj", "confidence": "auto" },
+    { "time": 90.744, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "Hirahira kalokalo.wav": [
+    { "time": 0.0, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Ikala Martine.wav": [
+    { "time": 0.0, "key": "B:maj", "confidence": "auto" }
+  ],
+  "Ilay Vehivaviko.wav": [
+    { "time": 0.0, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Instrumental.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "Isika Efatra.wav": [
+    { "time": 0.0, "key": "B:maj", "confidence": "auto" },
+    { "time": 57.469, "key": "F#:maj", "confidence": "auto" }
+  ],
+  "Isika roa.wav": [
+    { "time": 0.0, "key": "B:maj", "confidence": "auto" }
+  ],
+  "Manahy aho.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Ministera.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "NDAO_HIHIRA.wav": [
+    { "time": 0.0, "key": "G:maj", "confidence": "auto" }
+  ],
+  "NY_ITIAVAKO_ANAO.wav": [
+    { "time": 0.0, "key": "A#:maj", "confidence": "auto" },
+    { "time": 107.276, "key": "C:maj", "confidence": "auto" },
+    { "time": 113.731, "key": "A#:maj", "confidence": "auto" }
+  ],
+  "Ndeha re anaka.wav": [
+    { "time": 0.0, "key": "D:min", "confidence": "auto" },
+    { "time": 30.813, "key": "A:maj", "confidence": "auto" },
+    { "time": 139.204, "key": "C:maj", "confidence": "auto" }
+  ],
+  "Njakatiana - Inona ary ty.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Njakatiana - Raha latsaka ny orana.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" },
+    { "time": 214.947, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "Njakatiana - Romy.wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" },
+    { "time": 67.199, "key": "A:min", "confidence": "auto" },
+    { "time": 77.462, "key": "C:min", "confidence": "auto" },
+    { "time": 340.381, "key": "B:maj", "confidence": "auto" }
+  ],
+  "Njakatiana - Saropiaro.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" }
+  ],
+  "ODY.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Parson Jacques & Njakatiana - Soramariaka.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Radaoro.wav": [
+    { "time": 0.0, "key": "E:min", "confidence": "auto" },
+    { "time": 41.633, "key": "B:min", "confidence": "auto" }
+  ],
+  "Rasazy.wav": [
+    { "time": 0.0, "key": "A:maj", "confidence": "auto" }
+  ],
+  "Ry Avo Indrindra.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 66.247, "key": "A:maj", "confidence": "auto" },
+    { "time": 101.912, "key": "C:maj", "confidence": "auto" },
+    { "time": 173.407, "key": "A:maj", "confidence": "auto" },
+    { "time": 182.764, "key": "D:min", "confidence": "auto" },
+    { "time": 246.689, "key": "C:maj", "confidence": "auto" }
+  ],
+  "SOLO___TRACK__1.wav": [
+    { "time": 0.0, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "SOLO___TRACK__2.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "SOLO___TRACK__3.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 332.579, "key": "C:min", "confidence": "auto" }
+  ],
+  "SOLO___TRACK__4.wav": [
+    { "time": 0.0, "key": "D:maj", "confidence": "auto" }
+  ],
+  "Satriko Foana.wav": [
+    { "time": 0.0, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "TANTARA.wav": [
+    { "time": 0.0, "key": "F:maj", "confidence": "auto" }
+  ],
+  "TOJO_ANAO.wav": [
+    { "time": 0.0, "key": "F:maj", "confidence": "auto" },
+    { "time": 62.137, "key": "A#:maj", "confidence": "auto" },
+    { "time": 121.394, "key": "C:maj", "confidence": "auto" }
+  ],
+  "TSY_AHOANAO.wav": [
+    { "time": 0.0, "key": "D#:maj", "confidence": "auto" }
+  ],
+  "Tiako.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "Tsy Anjarantsika.wav": [
+    { "time": 0.0, "key": "A:maj", "confidence": "auto" }
+  ],
+  "_ZAY_MAH.wav": [
+    { "time": 0.0, "key": "G#:maj", "confidence": "auto" }
+  ],
+  "artist - AINA MIRAY.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "artist - ANKINO.wav": [
+    { "time": 0.0, "key": "G:maj", "confidence": "auto" },
+    { "time": 256.348, "key": "E:min", "confidence": "auto" }
+  ],
+  "artist - FIENONAO.wav": [
+    { "time": 0.0, "key": "C:min", "confidence": "auto" }
+  ],
+  "artist - GASY MODY.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "artist - HIRAN' NY NENY.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "artist - SUR EAU.wav": [
+    { "time": 0.0, "key": "E:maj", "confidence": "auto" }
+  ],
+  "ianaro.wav": [
+    { "time": 0.0, "key": "C:maj", "confidence": "auto" },
+    { "time": 78.971, "key": "C:min", "confidence": "auto" },
+    { "time": 211.998, "key": "G#:maj", "confidence": "auto" },
+    { "time": 283.701, "key": "A#:maj", "confidence": "auto" }
+  ]
+}
